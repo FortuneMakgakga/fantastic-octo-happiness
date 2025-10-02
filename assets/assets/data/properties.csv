@@ -1,0 +1,21 @@
+property_id,client_id,property_name,sector,province,town,lat,lon,guard_hours,notes
+P001,C001,Checkers Hyper Roodepoort,Retail,Gauteng,Roodepoort,-26.14,27.9,24/7,Large mall anchor
+P002,C001,Checkers Hyper Sasolburg,Retail,Free State,Sasolburg,-26.816,27.83,24/7,Parking deck cash risk
+P003,C010,Goldfields Retail Park Stilfontein,Retail,North West,Stilfontein,-26.844,26.769,24/7,Multiple ATMs
+P004,C010,Goldfields Retail Park Polokwane,Retail,Limpopo,Polokwane,-23.906,29.455,24/7,Weekend peak volume
+P005,C002,BlueSquare Offices Sandton,Commercial,Gauteng,Sandton,-26.107,28.057,06–20,Grade-A office park
+P006,C013,Pretoria Tech Hub,Commercial,Gauteng,Pretoria,-25.754,28.225,06–20,Data centre floor
+P007,C002,BlueSquare Offices Rosebank,Commercial,Gauteng,Rosebank,-26.146,28.041,06–20,Mixed tenants
+P008,C003,BrandMine Warehouse Stilfontein,Industrial,North West,Stilfontein,-26.844,26.769,24/7,High-value stock
+P009,C011,Kopano DC Sasolburg,Industrial,Free State,Sasolburg,-26.817,27.834,24/7,Fast-moving goods
+P010,C003,Secunda Substation S-12,Industrial,Mpumalanga,Secunda,-26.55,29.21,24/7,Critical power infra
+P011,C014,North West Shaft 3,Industrial,North West,Orkney,-26.98,26.67,24/7,Mine headgear
+P012,C007,TransGas Valve Station VG-17,Industrial,Mpumalanga,Evander,-26.476,29.092,24/7,High-pressure line
+P013,C008,AfriPipeline Block P-03,Industrial,Free State,Heilbron,-27.279,27.976,24/7,Pipeline patrol base
+P014,C004,Polokwane Licensing Dept,Governmental,Limpopo,Polokwane,-23.905,29.46,07–17,Public-facing office
+P015,C012,Limpopo Central Hospital,Governmental,Limpopo,Polokwane,-23.897,29.448,24/7,ER wing
+P016,C009,Joburg Water Pump Station JW-21,Governmental,Gauteng,Randburg,-26.093,27.993,24/7,Critical pumps
+P017,C005,Sunset Estate – Gate 1,Residential,Gauteng,Pretoria,-25.746,28.229,24/7,Access control
+P018,C005,Sunset Estate – Gate 2,Residential,Gauteng,Pretoria,-25.742,28.236,24/7,Secondary gate
+P019,C006,Mbali Community Hall,Community,KwaZulu-Natal,Durban,-29.858,31.022,08–22,Events & shelter
+P020,C015,Roodepoort Civic Centre,Community,Gauteng,Roodepoort,-26.15,27.915,08–20,Public events

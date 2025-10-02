@@ -1,0 +1,93 @@
+asset_id,property_id,asset_type,criticality,insured_value,details
+A001,P001,ATM Vault,High,3500000,ATM Vault at Checkers Hyper Roodepoort
+A002,P001,Loading Dock,Medium,500000,Loading Dock at Checkers Hyper Roodepoort
+A003,P001,Parking Boom,Low,120000,Parking Boom at Checkers Hyper Roodepoort
+A004,P002,Server Room,High,2500000,Server Room at Checkers Hyper Sasolburg
+A005,P002,Power Transformer,High,8000000,Power Transformer at Checkers Hyper Sasolburg
+A006,P002,Cold Storage,High,3000000,Cold Storage at Checkers Hyper Sasolburg
+A007,P002,Warehouse Stock,High,12000000,Warehouse Stock at Checkers Hyper Sasolburg
+A008,P003,CCTV System,Medium,450000,CCTV System at Goldfields Retail Park Stilfontein
+A009,P003,ATM Vault,High,3500000,ATM Vault at Goldfields Retail Park Stilfontein
+A010,P003,Warehouse Stock,High,12000000,Warehouse Stock at Goldfields Retail Park Stilfontein
+A011,P003,Vehicle Gate,Medium,300000,Vehicle Gate at Goldfields Retail Park Stilfontein
+A012,P003,Parking Boom,Low,120000,Parking Boom at Goldfields Retail Park Stilfontein
+A013,P003,Fuel Tank,High,4000000,Fuel Tank at Goldfields Retail Park Stilfontein
+A014,P004,Cold Storage,High,3000000,Cold Storage at Goldfields Retail Park Polokwane
+A015,P004,Vehicle Gate,Medium,300000,Vehicle Gate at Goldfields Retail Park Polokwane
+A016,P004,Cold Storage,High,3000000,Cold Storage at Goldfields Retail Park Polokwane
+A017,P005,Parking Boom,Low,120000,Parking Boom at BlueSquare Offices Sandton
+A018,P005,Perimeter Fence,Low,200000,Perimeter Fence at BlueSquare Offices Sandton
+A019,P005,Loading Dock,Medium,500000,Loading Dock at BlueSquare Offices Sandton
+A020,P005,ATM Vault,High,3500000,ATM Vault at BlueSquare Offices Sandton
+A021,P005,Document Archive,Medium,900000,Document Archive at BlueSquare Offices Sandton
+A022,P005,Access Control,Medium,380000,Access Control at BlueSquare Offices Sandton
+A023,P006,Loading Dock,Medium,500000,Loading Dock at Pretoria Tech Hub
+A024,P006,Server Room,High,2500000,Server Room at Pretoria Tech Hub
+A025,P006,Vehicle Gate,Medium,300000,Vehicle Gate at Pretoria Tech Hub
+A026,P006,Valve Station,High,6000000,Valve Station at Pretoria Tech Hub
+A027,P006,Power Transformer,High,8000000,Power Transformer at Pretoria Tech Hub
+A028,P007,High-Pressure Pump,High,5200000,High-Pressure Pump at BlueSquare Offices Rosebank
+A029,P007,Power Transformer,High,8000000,Power Transformer at BlueSquare Offices Rosebank
+A030,P007,Pipeline Segment,High,15000000,Pipeline Segment at BlueSquare Offices Rosebank
+A031,P008,Loading Dock,Medium,500000,Loading Dock at BrandMine Warehouse Stilfontein
+A032,P008,CCTV System,Medium,450000,CCTV System at BrandMine Warehouse Stilfontein
+A033,P008,Perimeter Fence,Low,200000,Perimeter Fence at BrandMine Warehouse Stilfontein
+A034,P008,Cold Storage,High,3000000,Cold Storage at BrandMine Warehouse Stilfontein
+A035,P008,Power Transformer,High,15784926,Power Transformer at BrandMine Warehouse Stilfontein
+A036,P009,Warehouse Stock,High,12000000,Warehouse Stock at Kopano DC Sasolburg
+A037,P009,Cold Storage,High,3000000,Cold Storage at Kopano DC Sasolburg
+A038,P009,Generator,Medium,450000,Generator at Kopano DC Sasolburg
+A039,P009,Pipeline Segment,High,23660282,Pipeline Segment at Kopano DC Sasolburg
+A040,P009,Warehouse Stock,High,12000000,Warehouse Stock at Kopano DC Sasolburg
+A041,P009,CCTV System,Medium,450000,CCTV System at Kopano DC Sasolburg
+A042,P010,Generator,Medium,450000,Generator at Secunda Substation S-12
+A043,P010,Warehouse Stock,High,12000000,Warehouse Stock at Secunda Substation S-12
+A044,P010,Parking Boom,Low,120000,Parking Boom at Secunda Substation S-12
+A045,P010,Power Transformer,High,11041009,Power Transformer at Secunda Substation S-12
+A046,P011,Pipeline Segment,High,17439811,Pipeline Segment at North West Shaft 3
+A047,P011,Pipeline Segment,High,18142605,Pipeline Segment at North West Shaft 3
+A048,P011,Loading Dock,Medium,500000,Loading Dock at North West Shaft 3
+A049,P011,Warehouse Stock,High,12000000,Warehouse Stock at North West Shaft 3
+A050,P011,Document Archive,Medium,900000,Document Archive at North West Shaft 3
+A051,P011,Cold Storage,High,3000000,Cold Storage at North West Shaft 3
+A052,P012,Document Archive,Medium,900000,Document Archive at TransGas Valve Station VG-17
+A053,P012,Perimeter Fence,Low,200000,Perimeter Fence at TransGas Valve Station VG-17
+A054,P012,High-Pressure Pump,High,6603728,High-Pressure Pump at TransGas Valve Station VG-17
+A055,P012,Cold Storage,High,3000000,Cold Storage at TransGas Valve Station VG-17
+A056,P013,Valve Station,High,11057111,Valve Station at AfriPipeline Block P-03
+A057,P013,CCTV System,Medium,450000,CCTV System at AfriPipeline Block P-03
+A058,P013,Parking Boom,Low,120000,Parking Boom at AfriPipeline Block P-03
+A059,P013,CCTV System,Medium,450000,CCTV System at AfriPipeline Block P-03
+A060,P014,High-Pressure Pump,High,5200000,High-Pressure Pump at Polokwane Licensing Dept
+A061,P014,Loading Dock,Medium,500000,Loading Dock at Polokwane Licensing Dept
+A062,P014,Warehouse Stock,High,12000000,Warehouse Stock at Polokwane Licensing Dept
+A063,P014,Vehicle Gate,Medium,300000,Vehicle Gate at Polokwane Licensing Dept
+A064,P014,Valve Station,High,6000000,Valve Station at Polokwane Licensing Dept
+A065,P015,Substation Switchgear,High,7000000,Substation Switchgear at Limpopo Central Hospital
+A066,P015,High-Pressure Pump,High,5200000,High-Pressure Pump at Limpopo Central Hospital
+A067,P015,Perimeter Fence,Low,200000,Perimeter Fence at Limpopo Central Hospital
+A068,P015,Server Room,High,2500000,Server Room at Limpopo Central Hospital
+A069,P016,Server Room,High,2500000,Server Room at Joburg Water Pump Station JW-21
+A070,P016,Parking Boom,Low,120000,Parking Boom at Joburg Water Pump Station JW-21
+A071,P016,Cold Storage,High,3000000,Cold Storage at Joburg Water Pump Station JW-21
+A072,P016,Cold Storage,High,3000000,Cold Storage at Joburg Water Pump Station JW-21
+A073,P016,Loading Dock,Medium,500000,Loading Dock at Joburg Water Pump Station JW-21
+A074,P017,High-Pressure Pump,High,5200000,High-Pressure Pump at Sunset Estate – Gate 1
+A075,P017,Pipeline Segment,High,15000000,Pipeline Segment at Sunset Estate – Gate 1
+A076,P017,Parking Boom,Low,120000,Parking Boom at Sunset Estate – Gate 1
+A077,P017,Server Room,High,2500000,Server Room at Sunset Estate – Gate 1
+A078,P017,Fuel Tank,High,4000000,Fuel Tank at Sunset Estate – Gate 1
+A079,P017,Substation Switchgear,High,7000000,Substation Switchgear at Sunset Estate – Gate 1
+A080,P018,CCTV System,Medium,450000,CCTV System at Sunset Estate – Gate 2
+A081,P018,Power Transformer,High,8000000,Power Transformer at Sunset Estate – Gate 2
+A082,P018,Server Room,High,2500000,Server Room at Sunset Estate – Gate 2
+A083,P019,Access Control,Medium,380000,Access Control at Mbali Community Hall
+A084,P019,Warehouse Stock,High,12000000,Warehouse Stock at Mbali Community Hall
+A085,P019,High-Pressure Pump,High,5200000,High-Pressure Pump at Mbali Community Hall
+A086,P019,High-Pressure Pump,High,5200000,High-Pressure Pump at Mbali Community Hall
+A087,P020,Fuel Tank,High,4000000,Fuel Tank at Roodepoort Civic Centre
+A088,P020,Loading Dock,Medium,500000,Loading Dock at Roodepoort Civic Centre
+A089,P020,Cold Storage,High,3000000,Cold Storage at Roodepoort Civic Centre
+A090,P020,ATM Vault,High,3500000,ATM Vault at Roodepoort Civic Centre
+A091,P020,Power Transformer,High,8000000,Power Transformer at Roodepoort Civic Centre
+A092,P020,Cold Storage,High,3000000,Cold Storage at Roodepoort Civic Centre
