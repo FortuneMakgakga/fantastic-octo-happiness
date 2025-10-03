@@ -1,0 +1,101 @@
+id,title,sector,province,town,incident_type,severity,status,date,time,lat,lon,property_id,is_transit,notes
+1027,Protest at Limpopo,Governmental,Limpopo,Polokwane,Protest,Low,Reported,2025-08-20,16:10,-23.895871,29.448177,P015,False,Protest reported by patrol. Sector=Governmental.
+1035,Assault at Roodepoort,Community,Gauteng,Roodepoort,Assault,Low,Solved,2025-08-20,16:33,-26.137882,27.916368,P020,False,Assault reported by patrol. Sector=Community.
+1075,Traffic Incident on route,Transit Incident,KwaZulu-Natal,Pietermaritzburg,Traffic Incident,Medium,Under investigation,2025-08-22,01:58,-29.586431,30.384853,,True,Transit escort / road cam report outside operating footprint.
+1074,Vehicle on route,Transit Incident,KwaZulu-Natal,Durban,Vehicle,Medium,Solved,2025-08-22,14:53,-29.875255,31.040291,,True,Transit escort / road cam report outside operating footprint.
+1014,Sabotage at Mbali,Community,KwaZulu-Natal,Durban,Sabotage,Low,Reported,2025-08-22,17:10,-29.860921,31.017179,P019,False,Sabotage reported by patrol. Sector=Community.
+1023,Traffic Incident at Pretoria,Commercial,Gauteng,Pretoria,Traffic Incident,Low,Solved,2025-08-23,08:50,-25.743145,28.222113,P006,False,Traffic Incident reported by patrol. Sector=Commercial.
+1082,Vehicle on route,Transit Incident,Northern Cape,Kimberley,Vehicle,Low,Open,2025-08-23,09:19,-28.725107,24.747222,,True,Transit escort / road cam report outside operating footprint.
+1056,Protest at BlueSquare,Commercial,Gauteng,Rosebank,Protest,High,Solved,2025-08-23,13:32,-26.14373,28.04755,P007,False,Protest reported by patrol. Sector=Commercial.
+1063,Pipeline Tampering at Polokwane,Governmental,Limpopo,Polokwane,Pipeline Tampering,Semi-High,Under investigation,2025-08-23,18:37,-23.911849,29.454591,P014,False,Pipeline Tampering reported by patrol. Sector=Governmental.
+1006,Assault at Goldfields,Retail,Limpopo,Polokwane,Assault,High,Reported,2025-08-23,20:01,-23.89166,29.455981,P004,False,Assault reported by patrol. Sector=Retail.
+1064,Vehicle at Polokwane,Governmental,Limpopo,Polokwane,Vehicle,Medium,Under investigation,2025-08-23,22:00,-23.908509,29.449584,P014,False,Vehicle reported by patrol. Sector=Governmental.
+1071,Fuel Theft on route,Transit Incident,Northern Cape,Upington,Fuel Theft,Medium,Open,2025-08-24,01:41,-28.466731,21.232406,,True,Transit escort / road cam report outside operating footprint.
+1013,Assault at Mbali,Community,KwaZulu-Natal,Durban,Assault,High,In pursuit,2025-08-24,13:01,-29.860293,31.021011,P019,False,Assault reported by patrol. Sector=Community.
+1096,Intrusion at BlueSquare,VIP,Gauteng,Rosebank,Intrusion,Low,Searching,2025-08-24,22:03,-26.15247,28.040361,P007,False,Intrusion reported by patrol. Sector=VIP.
+1030,Vehicle at Roodepoort,Community,Gauteng,Roodepoort,Vehicle,Semi-High,Reported,2025-08-24,23:08,-26.138309,27.922273,P020,False,Vehicle reported by patrol. Sector=Community.
+1093,Protest at BlueSquare,VIP,Gauteng,Sandton,Protest,Medium,Under investigation,2025-08-25,16:35,-26.115508,28.056526,P005,False,Protest reported by patrol. Sector=VIP.
+1055,Robbery at Sunset,Residential,Gauteng,Pretoria,Robbery,Low,Under investigation,2025-08-26,22:56,-25.731482,28.232338,P017,False,Robbery reported by patrol. Sector=Residential.
+1098,Intrusion at Mbali,Strikes & Crowd Control,KwaZulu-Natal,Durban,Intrusion,Medium,Searching,2025-08-27,03:43,-29.844526,31.009555,P019,False,Intrusion reported by patrol. Sector=Strikes & Crowd Control.
+1087,Fuel Theft on route,Transit Incident,Western Cape,Cape Town,Fuel Theft,Medium,In pursuit,2025-08-28,12:37,-33.913087,18.417614,,True,Transit escort / road cam report outside operating footprint.
+1015,Valve Interference at Secunda,Industrial,Mpumalanga,Secunda,Valve Interference,High,Under investigation,2025-08-28,21:45,-26.552344,29.203356,P010,False,Valve Interference reported by patrol. Sector=Industrial.
+1050,Intrusion at BlueSquare,Commercial,Gauteng,Sandton,Intrusion,High,Solved,2025-08-28,23:32,-26.099556,28.047221,P005,False,Intrusion reported by patrol. Sector=Commercial.
+1010,Traffic Incident at AfriPipeline,Industrial,Free State,Heilbron,Traffic Incident,Medium,Reported,2025-08-30,17:20,-27.29187,27.979933,P013,False,Traffic Incident reported by patrol. Sector=Industrial.
+1076,Robbery on route,Transit Incident,Western Cape,Cape Town,Robbery,High,Solved,2025-08-31,02:33,-33.940424,18.44191,,True,Transit escort / road cam report outside operating footprint.
+1097,Protest at Sunset,Strikes & Crowd Control,Gauteng,Pretoria,Protest,High,Reported,2025-08-31,17:46,-25.736337,28.226021,P017,False,Protest reported by patrol. Sector=Strikes & Crowd Control.
+1032,Theft at Mbali,Community,KwaZulu-Natal,Durban,Theft,High,In pursuit,2025-09-01,06:20,-29.84584,31.032383,P019,False,Theft reported by patrol. Sector=Community.
+1001,Valve Interference at BlueSquare,Commercial,Gauteng,Sandton,Valve Interference,Semi-High,Reported,2025-09-01,09:26,-26.113195,28.046745,P005,False,Valve Interference reported by patrol. Sector=Commercial.
+1085,Vehicle on route,Transit Incident,KwaZulu-Natal,Durban,Vehicle,Medium,Reported,2025-09-01,11:09,-29.866843,31.020032,,True,Transit escort / road cam report outside operating footprint.
+1031,Vandalism at BlueSquare,Commercial,Gauteng,Sandton,Vandalism,Medium,Solved,2025-09-01,15:28,-26.111714,28.062625,P005,False,Vandalism reported by patrol. Sector=Commercial.
+1095,Protest at Sunset,Strikes & Crowd Control,Gauteng,Pretoria,Protest,Low,Reported,2025-09-01,17:37,-25.740399,28.241923,P018,False,Protest reported by patrol. Sector=Strikes & Crowd Control.
+1073,Fuel Theft on route,Transit Incident,KwaZulu-Natal,Durban,Fuel Theft,Semi-High,Reported,2025-09-01,21:55,-29.859188,31.031961,,True,Transit escort / road cam report outside operating footprint.
+1003,Fuel Theft at AfriPipeline,Industrial,Free State,Heilbron,Fuel Theft,Medium,Under investigation,2025-09-02,19:58,-27.282783,27.965846,P013,False,Fuel Theft reported by patrol. Sector=Industrial.
+1051,Intrusion at Pretoria,Commercial,Gauteng,Pretoria,Intrusion,Low,In pursuit,2025-09-02,22:43,-25.760393,28.222897,P006,False,Intrusion reported by patrol. Sector=Commercial.
+1029,Traffic Incident at North,Industrial,North West,Orkney,Traffic Incident,Low,Solved,2025-09-03,00:25,-26.970487,26.663981,P011,False,Traffic Incident reported by patrol. Sector=Industrial.
+1100,Intrusion at Sunset,VIP,Gauteng,Pretoria,Intrusion,Low,Searching,2025-09-03,03:33,-25.732197,28.216977,P017,False,Intrusion reported by patrol. Sector=VIP.
+1079,Fuel Theft on route,Transit Incident,KwaZulu-Natal,Durban,Fuel Theft,High,Solved,2025-09-03,10:44,-29.870067,31.025684,,True,Transit escort / road cam report outside operating footprint.
+1072,Robbery on route,Transit Incident,Northern Cape,Kimberley,Robbery,High,In pursuit,2025-09-04,03:33,-28.7445,24.778186,,True,Transit escort / road cam report outside operating footprint.
+1048,Traffic Incident at Pretoria,Commercial,Gauteng,Pretoria,Traffic Incident,Semi-High,Solved,2025-09-04,06:39,-25.74356,28.231593,P006,False,Traffic Incident reported by patrol. Sector=Commercial.
+1065,Sabotage at BrandMine,Industrial,North West,Stilfontein,Sabotage,High,Open,2025-09-04,07:24,-26.857132,26.778987,P008,False,Sabotage reported by patrol. Sector=Industrial.
+1069,Sabotage at BlueSquare,Commercial,Gauteng,Rosebank,Sabotage,High,Solved,2025-09-04,13:08,-26.156049,28.040022,P007,False,Sabotage reported by patrol. Sector=Commercial.
+1045,Sabotage at North,Industrial,North West,Orkney,Sabotage,Semi-High,Open,2025-09-04,23:34,-26.976814,26.670343,P011,False,Sabotage reported by patrol. Sector=Industrial.
+1092,Intrusion at Joburg,VIP,Gauteng,Randburg,Intrusion,High,In pursuit,2025-09-05,06:16,-26.098801,27.984916,P016,False,Intrusion reported by patrol. Sector=VIP.
+1038,Valve Interference at Checkers,Retail,Gauteng,Roodepoort,Valve Interference,High,Searching,2025-09-05,08:18,-26.132516,27.912773,P001,False,Valve Interference reported by patrol. Sector=Retail.
+1005,Fuel Theft at Sunset,Residential,Gauteng,Pretoria,Fuel Theft,Semi-High,Under investigation,2025-09-05,18:28,-25.755262,28.24734,P018,False,Fuel Theft reported by patrol. Sector=Residential.
+1009,Protest at Mbali,Community,KwaZulu-Natal,Durban,Protest,High,Reported,2025-09-06,05:52,-29.865563,31.008921,P019,False,Protest reported by patrol. Sector=Community.
+1061,Fuel Theft at Checkers,Retail,Gauteng,Roodepoort,Fuel Theft,High,Under investigation,2025-09-08,16:06,-26.13269,27.89924,P001,False,Fuel Theft reported by patrol. Sector=Retail.
+1036,Valve Interference at Secunda,Industrial,Mpumalanga,Secunda,Valve Interference,Medium,Reported,2025-09-08,19:26,-26.555752,29.221969,P010,False,Valve Interference reported by patrol. Sector=Industrial.
+1059,Robbery at Checkers,Retail,Free State,Sasolburg,Robbery,Medium,Reported,2025-09-10,09:24,-26.817306,27.839042,P002,False,Robbery reported by patrol. Sector=Retail.
+1077,Vehicle on route,Transit Incident,Eastern Cape,Mthatha,Vehicle,Semi-High,Under investigation,2025-09-10,09:56,-31.584764,28.802549,,True,Transit escort / road cam report outside operating footprint.
+1053,Valve Interference at Polokwane,Governmental,Limpopo,Polokwane,Valve Interference,Medium,Solved,2025-09-10,18:50,-23.917456,29.460464,P014,False,Valve Interference reported by patrol. Sector=Governmental.
+1057,Intrusion at Checkers,Retail,Free State,Sasolburg,Intrusion,Medium,Under investigation,2025-09-11,17:59,-26.811318,27.815166,P002,False,Intrusion reported by patrol. Sector=Retail.
+1022,Fuel Theft at Checkers,Retail,Free State,Sasolburg,Fuel Theft,Medium,Reported,2025-09-12,03:14,-26.802177,27.817403,P002,False,Fuel Theft reported by patrol. Sector=Retail.
+1049,Vandalism at Checkers,Retail,Gauteng,Roodepoort,Vandalism,High,In pursuit,2025-09-12,07:54,-26.142928,27.89387,P001,False,Vandalism reported by patrol. Sector=Retail.
+1084,Vehicle on route,Transit Incident,Northern Cape,Upington,Vehicle,High,Open,2025-09-12,23:53,-28.456577,21.251241,,True,Transit escort / road cam report outside operating footprint.
+1060,Theft at Mbali,Community,KwaZulu-Natal,Durban,Theft,Semi-High,Open,2025-09-13,10:08,-29.85462,31.028578,P019,False,Theft reported by patrol. Sector=Community.
+1081,Traffic Incident on route,Transit Incident,Eastern Cape,Mthatha,Traffic Incident,Low,In pursuit,2025-09-16,13:48,-31.58769,28.790461,,True,Transit escort / road cam report outside operating footprint.
+1099,Protest at BlueSquare,VIP,Gauteng,Sandton,Protest,Medium,Searching,2025-09-16,20:15,-26.110589,28.069255,P005,False,Protest reported by patrol. Sector=VIP.
+1052,Sabotage at Mbali,Community,KwaZulu-Natal,Durban,Sabotage,Semi-High,Open,2025-09-16,20:38,-29.859746,31.027269,P019,False,Sabotage reported by patrol. Sector=Community.
+1054,Disturbance at Limpopo,Governmental,Limpopo,Polokwane,Disturbance,Low,Under investigation,2025-09-17,10:23,-23.891816,29.439739,P015,False,Disturbance reported by patrol. Sector=Governmental.
+1033,Intrusion at Goldfields,Retail,North West,Stilfontein,Intrusion,Semi-High,Reported,2025-09-18,02:48,-26.858894,26.777134,P003,False,Intrusion reported by patrol. Sector=Retail.
+1090,Fuel Theft on route,Transit Incident,Northern Cape,Kimberley,Fuel Theft,High,Reported,2025-09-18,15:29,-28.754278,24.751864,,True,Transit escort / road cam report outside operating footprint.
+1025,Traffic Incident at Goldfields,Retail,North West,Stilfontein,Traffic Incident,Semi-High,In pursuit,2025-09-19,04:01,-26.852872,26.775486,P003,False,Traffic Incident reported by patrol. Sector=Retail.
+1091,Protest at Secunda,VIP,Mpumalanga,Secunda,Protest,Semi-High,Open,2025-09-19,11:13,-26.548396,29.205313,P010,False,Protest reported by patrol. Sector=VIP.
+1026,Valve Interference at Kopano,Industrial,Free State,Sasolburg,Valve Interference,Semi-High,Open,2025-09-19,19:39,-26.822515,27.841556,P009,False,Valve Interference reported by patrol. Sector=Industrial.
+1078,Traffic Incident on route,Transit Incident,Northern Cape,Kimberley,Traffic Incident,Medium,In pursuit,2025-09-21,22:38,-28.753676,24.744027,,True,Transit escort / road cam report outside operating footprint.
+1020,Protest at North,Industrial,North West,Orkney,Protest,Medium,Under investigation,2025-09-21,22:41,-26.986099,26.684061,P011,False,Protest reported by patrol. Sector=Industrial.
+1089,Fuel Theft on route,Transit Incident,KwaZulu-Natal,Durban,Fuel Theft,High,Searching,2025-09-22,00:30,-29.847673,31.029624,,True,Transit escort / road cam report outside operating footprint.
+1012,Valve Interference at AfriPipeline,Industrial,Free State,Heilbron,Valve Interference,High,Under investigation,2025-09-22,04:05,-27.270461,27.985225,P013,False,Valve Interference reported by patrol. Sector=Industrial.
+1021,Theft at Goldfields,Retail,North West,Stilfontein,Theft,Low,Solved,2025-09-22,17:37,-26.849592,26.755504,P003,False,Theft reported by patrol. Sector=Retail.
+1086,Fuel Theft on route,Transit Incident,KwaZulu-Natal,Durban,Fuel Theft,High,In pursuit,2025-09-23,09:43,-29.876852,31.036038,,True,Transit escort / road cam report outside operating footprint.
+1062,Break-in at BlueSquare,Commercial,Gauteng,Rosebank,Break-in,Semi-High,Searching,2025-09-23,11:08,-26.146462,28.033177,P007,False,Break-in reported by patrol. Sector=Commercial.
+1004,Theft at Checkers,Retail,Gauteng,Roodepoort,Theft,Low,Searching,2025-09-24,16:28,-26.145275,27.885584,P001,False,Theft reported by patrol. Sector=Retail.
+1040,Intrusion at Mbali,Community,KwaZulu-Natal,Durban,Intrusion,Medium,In pursuit,2025-09-24,20:34,-29.868224,31.028038,P019,False,Intrusion reported by patrol. Sector=Community.
+1019,Protest at AfriPipeline,Industrial,Free State,Heilbron,Protest,Semi-High,Open,2025-09-24,23:34,-27.273102,27.982915,P013,False,Protest reported by patrol. Sector=Industrial.
+1080,Robbery on route,Transit Incident,KwaZulu-Natal,Durban,Robbery,Low,Solved,2025-09-27,01:12,-29.847101,31.036012,,True,Transit escort / road cam report outside operating footprint.
+1017,Robbery at Joburg,Governmental,Gauteng,Randburg,Robbery,Low,Under investigation,2025-09-27,07:09,-26.103011,27.992569,P016,False,Robbery reported by patrol. Sector=Governmental.
+1067,Sabotage at AfriPipeline,Industrial,Free State,Heilbron,Sabotage,High,Searching,2025-09-28,02:11,-27.271575,27.977384,P013,False,Sabotage reported by patrol. Sector=Industrial.
+1041,Protest at Secunda,Industrial,Mpumalanga,Secunda,Protest,Medium,Under investigation,2025-09-28,07:48,-26.540502,29.208809,P010,False,Protest reported by patrol. Sector=Industrial.
+1011,Pipeline Tampering at TransGas,Industrial,Mpumalanga,Evander,Pipeline Tampering,Semi-High,Reported,2025-09-28,08:57,-26.475575,29.085354,P012,False,Pipeline Tampering reported by patrol. Sector=Industrial.
+1018,Intrusion at Limpopo,Governmental,Limpopo,Polokwane,Intrusion,Low,Under investigation,2025-09-28,14:25,-23.900631,29.462559,P015,False,Intrusion reported by patrol. Sector=Governmental.
+1042,Break-in at AfriPipeline,Industrial,Free State,Heilbron,Break-in,Medium,Reported,2025-09-28,21:43,-27.274199,27.972954,P013,False,Break-in reported by patrol. Sector=Industrial.
+1016,Assault at Checkers,Retail,Free State,Sasolburg,Assault,High,Searching,2025-09-29,01:10,-26.828063,27.834564,P002,False,Assault reported by patrol. Sector=Retail.
+1088,Vehicle on route,Transit Incident,KwaZulu-Natal,Durban,Vehicle,Low,Searching,2025-09-29,07:32,-29.840077,31.005425,,True,Transit escort / road cam report outside operating footprint.
+1058,Assault at Secunda,Industrial,Mpumalanga,Secunda,Assault,High,Under investigation,2025-09-29,13:09,-26.559723,29.223739,P010,False,Assault reported by patrol. Sector=Industrial.
+1024,Traffic Incident at BlueSquare,Commercial,Gauteng,Sandton,Traffic Incident,Medium,Searching,2025-09-29,18:25,-26.104164,28.060581,P005,False,Traffic Incident reported by patrol. Sector=Commercial.
+1068,Break-in at Goldfields,Retail,Limpopo,Polokwane,Break-in,High,Under investigation,2025-09-30,02:38,-23.912812,29.454569,P004,False,Break-in reported by patrol. Sector=Retail.
+1046,Traffic Incident at Sunset,Residential,Gauteng,Pretoria,Traffic Incident,Medium,In pursuit,2025-09-30,04:29,-25.755668,28.234082,P018,False,Traffic Incident reported by patrol. Sector=Residential.
+1066,Valve Interference at Joburg,Governmental,Gauteng,Randburg,Valve Interference,Low,Searching,2025-09-30,10:19,-26.096589,27.978177,P016,False,Valve Interference reported by patrol. Sector=Governmental.
+1047,Valve Interference at Checkers,Retail,Gauteng,Roodepoort,Valve Interference,Medium,In pursuit,2025-10-01,08:58,-26.142061,27.913466,P001,False,Valve Interference reported by patrol. Sector=Retail.
+1008,Theft at Pretoria,Commercial,Gauteng,Pretoria,Theft,Medium,Solved,2025-10-01,12:37,-25.759649,28.239854,P006,False,Theft reported by patrol. Sector=Commercial.
+1028,Disturbance at Polokwane,Governmental,Limpopo,Polokwane,Disturbance,Low,Under investigation,2025-10-01,17:22,-23.908914,29.449732,P014,False,Disturbance reported by patrol. Sector=Governmental.
+1044,Robbery at North,Industrial,North West,Orkney,Robbery,Low,In pursuit,2025-10-01,23:53,-26.989643,26.683876,P011,False,Robbery reported by patrol. Sector=Industrial.
+1007,Sabotage at AfriPipeline,Industrial,Free State,Heilbron,Sabotage,Medium,In pursuit,2025-10-02,08:12,-27.27817,27.979198,P013,False,Sabotage reported by patrol. Sector=Industrial.
+1002,Pipeline Tampering at Pretoria,Commercial,Gauteng,Pretoria,Pipeline Tampering,Semi-High,Searching,2025-10-02,15:49,-25.746141,28.22523,P006,False,Pipeline Tampering reported by patrol. Sector=Commercial.
+1083,Vehicle on route,Transit Incident,KwaZulu-Natal,Pietermaritzburg,Vehicle,High,Solved,2025-10-02,23:26,-29.61388,30.367045,,True,Transit escort / road cam report outside operating footprint.
+1043,Valve Interference at TransGas,Industrial,Mpumalanga,Evander,Valve Interference,Semi-High,In pursuit,2025-10-03,06:06,-26.471756,29.08899,P012,False,Valve Interference reported by patrol. Sector=Industrial.
+1037,Fuel Theft at Checkers,Retail,Gauteng,Roodepoort,Fuel Theft,Low,In pursuit,2025-10-03,11:53,-26.148698,27.892486,P001,False,Fuel Theft reported by patrol. Sector=Retail.
+1039,Valve Interference at Secunda,Industrial,Mpumalanga,Secunda,Valve Interference,Medium,Open,2025-10-03,16:16,-26.564256,29.217097,P010,False,Valve Interference reported by patrol. Sector=Industrial.
+1034,Vandalism at Mbali,Community,KwaZulu-Natal,Durban,Vandalism,Medium,Solved,2025-10-03,20:12,-29.859745,31.02817,P019,False,Vandalism reported by patrol. Sector=Community.
+1094,Intrusion at Mbali,VIP,KwaZulu-Natal,Durban,Intrusion,Low,Under investigation,2025-10-03,20:58,-29.864113,31.017826,P019,False,Intrusion reported by patrol. Sector=VIP.
+1070,Traffic Incident at BlueSquare,Commercial,Gauteng,Rosebank,Traffic Incident,Low,Open,2025-10-03,21:12,-26.143243,28.04589,P007,False,Traffic Incident reported by patrol. Sector=Commercial.
