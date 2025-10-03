@@ -1,0 +1,65 @@
+/* Main background */
+.stApp {
+    background-color: #f4f4f4;
+    font-family: "Segoe UI", sans-serif;
+}
+
+/* Sidebar styling */
+[data-testid="stSidebar"] {
+    background-color: #2b2b2b;
+    color: white;
+}
+
+/* KPI cards */
+.kpi-card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+}
+
+.kpi-card h3 {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.kpi-card p {
+    margin: 5px 0 0 0;
+    font-size: 24px;
+    font-weight: bold;
+    color: #0078d7; /* Power BI blue */
+}
+
+/* Landing page container */
+.landing-container {
+    background-color: #ffffff;
+    padding: 20px 30px;
+    border-radius: 10px;
+    color: #1c1c1c !important;  /* Force dark readable text */
+}
+
+/* Force all text inside landing page to be dark */
+.landing-container h1, 
+.landing-container h2,
+.landing-container h3,
+.landing-container h4,
+.landing-container h5,
+.landing-container h6,
+.landing-container p,
+.landing-container li,
+.landing-container span,
+.landing-container div {
+    color: #1c1c1c !important;
+}
+
+/* Links in landing page */
+.landing-container a {
+    color: #0078d7; /* Power BI blue for links */
+    text-decoration: none;
+}
+.landing-container a:hover {
+    text-decoration: underline;
+}
