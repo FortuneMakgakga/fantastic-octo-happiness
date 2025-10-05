@@ -1,0 +1,401 @@
+client_id,client_name,sector,office_id,city,province,latitude,longitude
+CL1000,Retail Client 1 - Johannesburg,Industrial,NDK-JHB,Johannesburg,Gauteng,-26.444512,27.263178
+CL1001,Retail Client 2 - Johannesburg,Governmental,NDK-JHB,Johannesburg,Gauteng,-25.955828,27.797741
+CL1002,Industrial Client 3 - Johannesburg,Retail,NDK-JHB,Johannesburg,Gauteng,-25.811839,28.274148
+CL1003,Retail Client 4 - Johannesburg,Governmental,NDK-JHB,Johannesburg,Gauteng,-25.685763,27.916535
+CL1004,Residential Client 5 - Johannesburg,Residential,NDK-JHB,Johannesburg,Gauteng,-25.688579,27.484438
+CL1005,Industrial Client 6 - Johannesburg,Industrial,NDK-JHB,Johannesburg,Gauteng,-26.193496,27.342395
+CL1006,Retail Client 7 - Johannesburg,Commercial,NDK-JHB,Johannesburg,Gauteng,-26.2888,27.946464
+CL1007,Commercial Client 8 - Johannesburg,Industrial,NDK-JHB,Johannesburg,Gauteng,-26.571053,27.650552
+CL1008,Residential Client 9 - Johannesburg,Industrial,NDK-JHB,Johannesburg,Gauteng,-26.096792,27.740528
+CL1009,Community Client 10 - Johannesburg,Commercial,NDK-JHB,Johannesburg,Gauteng,-26.103838,27.468392
+CL1010,Commercial Client 11 - Johannesburg,Retail,NDK-JHB,Johannesburg,Gauteng,-26.103108,28.340084
+CL1011,Governmental Client 12 - Johannesburg,Retail,NDK-JHB,Johannesburg,Gauteng,-25.378176,27.752755
+CL1012,Residential Client 13 - Johannesburg,Governmental,NDK-JHB,Johannesburg,Gauteng,-25.826466,27.173428
+CL1013,Retail Client 14 - Johannesburg,Retail,NDK-JHB,Johannesburg,Gauteng,-26.2558,27.622239
+CL1014,Industrial Client 15 - Johannesburg,Community,NDK-JHB,Johannesburg,Gauteng,-25.487167,27.375683
+CL1015,Governmental Client 16 - Johannesburg,Retail,NDK-JHB,Johannesburg,Gauteng,-26.023752,28.47834
+CL1016,Retail Client 17 - Johannesburg,Retail,NDK-JHB,Johannesburg,Gauteng,-25.972721,27.919342
+CL1017,Community Client 18 - Johannesburg,Commercial,NDK-JHB,Johannesburg,Gauteng,-26.53112,28.239511
+CL1018,Commercial Client 19 - Johannesburg,Retail,NDK-JHB,Johannesburg,Gauteng,-25.855716,27.817602
+CL1019,Industrial Client 20 - Johannesburg,Governmental,NDK-JHB,Johannesburg,Gauteng,-26.220131,27.456181
+CL1020,Residential Client 21 - Johannesburg,Governmental,NDK-JHB,Johannesburg,Gauteng,-26.116169,28.021951
+CL1021,Industrial Client 22 - Johannesburg,Governmental,NDK-JHB,Johannesburg,Gauteng,-25.47436,27.765634
+CL1022,Retail Client 23 - Johannesburg,Industrial,NDK-JHB,Johannesburg,Gauteng,-25.762961,27.878905
+CL1023,Industrial Client 24 - Johannesburg,Residential,NDK-JHB,Johannesburg,Gauteng,-25.825135,28.012034
+CL1024,Governmental Client 25 - Johannesburg,Commercial,NDK-JHB,Johannesburg,Gauteng,-25.520721,27.124792
+CL1025,Residential Client 26 - Johannesburg,Community,NDK-JHB,Johannesburg,Gauteng,-25.630844,27.3655
+CL1026,Residential Client 27 - Johannesburg,Residential,NDK-JHB,Johannesburg,Gauteng,-26.428088,27.858685
+CL1027,Industrial Client 28 - Johannesburg,Retail,NDK-JHB,Johannesburg,Gauteng,-26.566002,28.32799
+CL1028,Governmental Client 29 - Johannesburg,Community,NDK-JHB,Johannesburg,Gauteng,-25.821851,28.085125
+CL1029,Residential Client 30 - Johannesburg,Governmental,NDK-JHB,Johannesburg,Gauteng,-26.677419,27.891648
+CL1030,Community Client 31 - Johannesburg,Residential,NDK-JHB,Johannesburg,Gauteng,-25.920501,27.238439
+CL1031,Community Client 32 - Johannesburg,Community,NDK-JHB,Johannesburg,Gauteng,-26.485701,28.043294
+CL1032,Residential Client 33 - Johannesburg,Governmental,NDK-JHB,Johannesburg,Gauteng,-26.253727,28.037955
+CL1033,Residential Client 34 - Johannesburg,Community,NDK-JHB,Johannesburg,Gauteng,-25.923863,27.583426
+CL1034,Governmental Client 35 - Johannesburg,Industrial,NDK-JHB,Johannesburg,Gauteng,-25.404815,28.262505
+CL1035,Residential Client 36 - Johannesburg,Retail,NDK-JHB,Johannesburg,Gauteng,-26.199643,27.065387
+CL1036,Community Client 37 - Johannesburg,Commercial,NDK-JHB,Johannesburg,Gauteng,-26.273325,27.597279
+CL1037,Community Client 38 - Johannesburg,Retail,NDK-JHB,Johannesburg,Gauteng,-25.713058,28.493038
+CL1038,Governmental Client 39 - Johannesburg,Community,NDK-JHB,Johannesburg,Gauteng,-26.201719,28.143822
+CL1039,Industrial Client 40 - Johannesburg,Commercial,NDK-JHB,Johannesburg,Gauteng,-25.869552,28.037553
+CL1040,Industrial Client 41 - Johannesburg,Industrial,NDK-JHB,Johannesburg,Gauteng,-26.488422,27.598314
+CL1041,Residential Client 42 - Johannesburg,Governmental,NDK-JHB,Johannesburg,Gauteng,-26.362802,27.515184
+CL1042,Retail Client 43 - Johannesburg,Community,NDK-JHB,Johannesburg,Gauteng,-25.981621,27.999937
+CL1043,Governmental Client 44 - Johannesburg,Governmental,NDK-JHB,Johannesburg,Gauteng,-26.551728,27.196342
+CL1044,Residential Client 45 - Johannesburg,Industrial,NDK-JHB,Johannesburg,Gauteng,-26.249227,27.992347
+CL1045,Retail Client 46 - Johannesburg,Commercial,NDK-JHB,Johannesburg,Gauteng,-25.514891,27.829886
+CL1046,Residential Client 47 - Johannesburg,Retail,NDK-JHB,Johannesburg,Gauteng,-25.503767,27.577257
+CL1047,Community Client 48 - Johannesburg,Industrial,NDK-JHB,Johannesburg,Gauteng,-26.256497,27.531397
+CL1048,Retail Client 49 - Johannesburg,Industrial,NDK-JHB,Johannesburg,Gauteng,-26.460485,28.243669
+CL1049,Commercial Client 50 - Johannesburg,Governmental,NDK-JHB,Johannesburg,Gauteng,-26.225861,27.828555
+CL1050,Residential Client 1 - Pretoria,Residential,NDK-PTA,Pretoria,Gauteng,-25.890028,27.7823
+CL1051,Community Client 2 - Pretoria,Retail,NDK-PTA,Pretoria,Gauteng,-26.696237,28.482518
+CL1052,Community Client 3 - Pretoria,Industrial,NDK-PTA,Pretoria,Gauteng,-25.432522,27.311454
+CL1053,Governmental Client 4 - Pretoria,Community,NDK-PTA,Pretoria,Gauteng,-26.290515,27.780015
+CL1054,Community Client 5 - Pretoria,Commercial,NDK-PTA,Pretoria,Gauteng,-25.437324,28.475446
+CL1055,Residential Client 6 - Pretoria,Governmental,NDK-PTA,Pretoria,Gauteng,-26.339441,27.846539
+CL1056,Commercial Client 7 - Pretoria,Commercial,NDK-PTA,Pretoria,Gauteng,-25.570244,27.591555
+CL1057,Residential Client 8 - Pretoria,Governmental,NDK-PTA,Pretoria,Gauteng,-25.676498,27.241604
+CL1058,Governmental Client 9 - Pretoria,Governmental,NDK-PTA,Pretoria,Gauteng,-25.859022,28.298797
+CL1059,Retail Client 10 - Pretoria,Retail,NDK-PTA,Pretoria,Gauteng,-25.32307,27.119049
+CL1060,Commercial Client 11 - Pretoria,Governmental,NDK-PTA,Pretoria,Gauteng,-26.100314,27.306814
+CL1061,Commercial Client 12 - Pretoria,Retail,NDK-PTA,Pretoria,Gauteng,-26.069109,27.821645
+CL1062,Industrial Client 13 - Pretoria,Industrial,NDK-PTA,Pretoria,Gauteng,-26.569343,27.445291
+CL1063,Community Client 14 - Pretoria,Industrial,NDK-PTA,Pretoria,Gauteng,-25.401382,27.853506
+CL1064,Governmental Client 15 - Pretoria,Community,NDK-PTA,Pretoria,Gauteng,-26.059623,28.130289
+CL1065,Governmental Client 16 - Pretoria,Retail,NDK-PTA,Pretoria,Gauteng,-25.661393,27.072869
+CL1066,Retail Client 17 - Pretoria,Residential,NDK-PTA,Pretoria,Gauteng,-25.707824,28.258865
+CL1067,Retail Client 18 - Pretoria,Residential,NDK-PTA,Pretoria,Gauteng,-26.467687,28.171497
+CL1068,Industrial Client 19 - Pretoria,Community,NDK-PTA,Pretoria,Gauteng,-26.298849,27.459705
+CL1069,Retail Client 20 - Pretoria,Retail,NDK-PTA,Pretoria,Gauteng,-25.768634,27.167088
+CL1070,Governmental Client 21 - Pretoria,Retail,NDK-PTA,Pretoria,Gauteng,-25.769179,28.331785
+CL1071,Residential Client 22 - Pretoria,Governmental,NDK-PTA,Pretoria,Gauteng,-25.725164,27.660492
+CL1072,Retail Client 23 - Pretoria,Residential,NDK-PTA,Pretoria,Gauteng,-26.0865,28.147644
+CL1073,Community Client 24 - Pretoria,Community,NDK-PTA,Pretoria,Gauteng,-25.908101,27.127356
+CL1074,Governmental Client 25 - Pretoria,Retail,NDK-PTA,Pretoria,Gauteng,-25.88426,28.222266
+CL1075,Industrial Client 26 - Pretoria,Industrial,NDK-PTA,Pretoria,Gauteng,-26.228107,28.391365
+CL1076,Governmental Client 27 - Pretoria,Retail,NDK-PTA,Pretoria,Gauteng,-25.648996,27.861096
+CL1077,Residential Client 28 - Pretoria,Industrial,NDK-PTA,Pretoria,Gauteng,-25.647698,27.118723
+CL1078,Governmental Client 29 - Pretoria,Industrial,NDK-PTA,Pretoria,Gauteng,-25.496855,28.232256
+CL1079,Retail Client 30 - Pretoria,Community,NDK-PTA,Pretoria,Gauteng,-25.42618,27.192947
+CL1080,Community Client 31 - Pretoria,Commercial,NDK-PTA,Pretoria,Gauteng,-26.585508,27.207623
+CL1081,Governmental Client 32 - Pretoria,Retail,NDK-PTA,Pretoria,Gauteng,-26.14087,27.63646
+CL1082,Community Client 33 - Pretoria,Community,NDK-PTA,Pretoria,Gauteng,-25.912894,27.183365
+CL1083,Commercial Client 34 - Pretoria,Industrial,NDK-PTA,Pretoria,Gauteng,-26.418041,28.217467
+CL1084,Community Client 35 - Pretoria,Commercial,NDK-PTA,Pretoria,Gauteng,-26.044817,28.211907
+CL1085,Community Client 36 - Pretoria,Retail,NDK-PTA,Pretoria,Gauteng,-26.689603,27.827389
+CL1086,Community Client 37 - Pretoria,Retail,NDK-PTA,Pretoria,Gauteng,-25.395295,27.873263
+CL1087,Residential Client 38 - Pretoria,Governmental,NDK-PTA,Pretoria,Gauteng,-26.411466,28.076636
+CL1088,Residential Client 39 - Pretoria,Industrial,NDK-PTA,Pretoria,Gauteng,-26.16942,28.002576
+CL1089,Commercial Client 40 - Pretoria,Community,NDK-PTA,Pretoria,Gauteng,-26.658952,27.953851
+CL1090,Industrial Client 41 - Pretoria,Governmental,NDK-PTA,Pretoria,Gauteng,-26.654923,28.117171
+CL1091,Industrial Client 42 - Pretoria,Commercial,NDK-PTA,Pretoria,Gauteng,-26.037922,27.182632
+CL1092,Residential Client 43 - Pretoria,Industrial,NDK-PTA,Pretoria,Gauteng,-25.94031,27.100162
+CL1093,Residential Client 44 - Pretoria,Retail,NDK-PTA,Pretoria,Gauteng,-25.785289,28.494129
+CL1094,Community Client 45 - Pretoria,Commercial,NDK-PTA,Pretoria,Gauteng,-25.622844,27.860661
+CL1095,Residential Client 46 - Pretoria,Governmental,NDK-PTA,Pretoria,Gauteng,-26.556311,28.049751
+CL1096,Governmental Client 47 - Pretoria,Retail,NDK-PTA,Pretoria,Gauteng,-25.774365,27.073646
+CL1097,Community Client 48 - Pretoria,Commercial,NDK-PTA,Pretoria,Gauteng,-25.590781,27.778075
+CL1098,Governmental Client 49 - Pretoria,Community,NDK-PTA,Pretoria,Gauteng,-26.103785,28.182281
+CL1099,Retail Client 50 - Pretoria,Industrial,NDK-PTA,Pretoria,Gauteng,-26.123803,27.721539
+CL1100,Governmental Client 1 - Durban,Community,NDK-DBN,Durban,KwaZulu-Natal,-30.246136,29.656748
+CL1101,Community Client 2 - Durban,Community,NDK-DBN,Durban,KwaZulu-Natal,-27.856081,29.172853
+CL1102,Community Client 3 - Durban,Community,NDK-DBN,Durban,KwaZulu-Natal,-29.397752,32.060524
+CL1103,Governmental Client 4 - Durban,Industrial,NDK-DBN,Durban,KwaZulu-Natal,-30.048241,31.800596
+CL1104,Governmental Client 5 - Durban,Retail,NDK-DBN,Durban,KwaZulu-Natal,-27.593769,28.828667
+CL1105,Commercial Client 6 - Durban,Residential,NDK-DBN,Durban,KwaZulu-Natal,-29.23085,30.307979
+CL1106,Industrial Client 7 - Durban,Residential,NDK-DBN,Durban,KwaZulu-Natal,-29.770792,28.670422
+CL1107,Residential Client 8 - Durban,Residential,NDK-DBN,Durban,KwaZulu-Natal,-30.029932,28.843907
+CL1108,Commercial Client 9 - Durban,Industrial,NDK-DBN,Durban,KwaZulu-Natal,-30.0423,31.408048
+CL1109,Residential Client 10 - Durban,Retail,NDK-DBN,Durban,KwaZulu-Natal,-27.678078,28.655602
+CL1110,Residential Client 11 - Durban,Community,NDK-DBN,Durban,KwaZulu-Natal,-29.812991,32.030096
+CL1111,Industrial Client 12 - Durban,Commercial,NDK-DBN,Durban,KwaZulu-Natal,-28.957783,30.754714
+CL1112,Residential Client 13 - Durban,Industrial,NDK-DBN,Durban,KwaZulu-Natal,-30.880037,30.245674
+CL1113,Retail Client 14 - Durban,Industrial,NDK-DBN,Durban,KwaZulu-Natal,-27.342017,29.850668
+CL1114,Residential Client 15 - Durban,Commercial,NDK-DBN,Durban,KwaZulu-Natal,-30.550663,30.162872
+CL1115,Commercial Client 16 - Durban,Industrial,NDK-DBN,Durban,KwaZulu-Natal,-27.433184,29.73059
+CL1116,Industrial Client 17 - Durban,Governmental,NDK-DBN,Durban,KwaZulu-Natal,-28.023878,31.375847
+CL1117,Retail Client 18 - Durban,Residential,NDK-DBN,Durban,KwaZulu-Natal,-30.150306,30.096124
+CL1118,Retail Client 19 - Durban,Commercial,NDK-DBN,Durban,KwaZulu-Natal,-28.323835,29.977871
+CL1119,Residential Client 20 - Durban,Commercial,NDK-DBN,Durban,KwaZulu-Natal,-30.212375,31.98298
+CL1120,Retail Client 21 - Durban,Commercial,NDK-DBN,Durban,KwaZulu-Natal,-28.557299,31.615655
+CL1121,Industrial Client 22 - Durban,Residential,NDK-DBN,Durban,KwaZulu-Natal,-30.809128,29.460861
+CL1122,Commercial Client 23 - Durban,Retail,NDK-DBN,Durban,KwaZulu-Natal,-29.092544,28.742815
+CL1123,Residential Client 24 - Durban,Industrial,NDK-DBN,Durban,KwaZulu-Natal,-27.32508,29.351265
+CL1124,Retail Client 25 - Durban,Industrial,NDK-DBN,Durban,KwaZulu-Natal,-29.552548,29.270443
+CL1125,Residential Client 26 - Durban,Residential,NDK-DBN,Durban,KwaZulu-Natal,-30.520395,29.336927
+CL1126,Commercial Client 27 - Durban,Residential,NDK-DBN,Durban,KwaZulu-Natal,-29.817804,30.783992
+CL1127,Commercial Client 28 - Durban,Governmental,NDK-DBN,Durban,KwaZulu-Natal,-29.887555,29.804196
+CL1128,Governmental Client 29 - Durban,Community,NDK-DBN,Durban,KwaZulu-Natal,-30.878606,29.816589
+CL1129,Governmental Client 30 - Durban,Retail,NDK-DBN,Durban,KwaZulu-Natal,-28.97801,29.083257
+CL1130,Industrial Client 31 - Durban,Community,NDK-DBN,Durban,KwaZulu-Natal,-28.749241,29.555349
+CL1131,Residential Client 32 - Durban,Governmental,NDK-DBN,Durban,KwaZulu-Natal,-28.624618,28.594308
+CL1132,Industrial Client 33 - Durban,Governmental,NDK-DBN,Durban,KwaZulu-Natal,-27.704664,28.558027
+CL1133,Commercial Client 34 - Durban,Residential,NDK-DBN,Durban,KwaZulu-Natal,-30.442951,31.297785
+CL1134,Commercial Client 35 - Durban,Residential,NDK-DBN,Durban,KwaZulu-Natal,-30.734777,31.059595
+CL1135,Community Client 36 - Durban,Retail,NDK-DBN,Durban,KwaZulu-Natal,-27.404234,31.638059
+CL1136,Residential Client 37 - Durban,Residential,NDK-DBN,Durban,KwaZulu-Natal,-28.343418,31.950635
+CL1137,Governmental Client 38 - Durban,Industrial,NDK-DBN,Durban,KwaZulu-Natal,-29.352672,31.642364
+CL1138,Community Client 39 - Durban,Residential,NDK-DBN,Durban,KwaZulu-Natal,-29.618552,31.847149
+CL1139,Retail Client 40 - Durban,Community,NDK-DBN,Durban,KwaZulu-Natal,-30.3644,31.884104
+CL1140,Retail Client 41 - Durban,Industrial,NDK-DBN,Durban,KwaZulu-Natal,-27.902222,31.545797
+CL1141,Governmental Client 42 - Durban,Industrial,NDK-DBN,Durban,KwaZulu-Natal,-30.453877,30.647353
+CL1142,Community Client 43 - Durban,Governmental,NDK-DBN,Durban,KwaZulu-Natal,-30.840987,31.096264
+CL1143,Industrial Client 44 - Durban,Industrial,NDK-DBN,Durban,KwaZulu-Natal,-30.872145,28.80536
+CL1144,Commercial Client 45 - Durban,Governmental,NDK-DBN,Durban,KwaZulu-Natal,-30.088206,31.650448
+CL1145,Industrial Client 46 - Durban,Commercial,NDK-DBN,Durban,KwaZulu-Natal,-29.591125,30.443856
+CL1146,Commercial Client 47 - Durban,Governmental,NDK-DBN,Durban,KwaZulu-Natal,-28.854828,29.311668
+CL1147,Retail Client 48 - Durban,Governmental,NDK-DBN,Durban,KwaZulu-Natal,-28.840272,30.879426
+CL1148,Governmental Client 49 - Durban,Residential,NDK-DBN,Durban,KwaZulu-Natal,-29.826317,30.007057
+CL1149,Industrial Client 50 - Durban,Commercial,NDK-DBN,Durban,KwaZulu-Natal,-29.26888,31.856462
+CL1150,Residential Client 1 - Cape Town,Governmental,NDK-CPT,Cape Town,Western Cape,-33.155018,21.603359
+CL1151,Industrial Client 2 - Cape Town,Retail,NDK-CPT,Cape Town,Western Cape,-33.243103,19.902133
+CL1152,Industrial Client 3 - Cape Town,Retail,NDK-CPT,Cape Town,Western Cape,-34.79011,19.827378
+CL1153,Industrial Client 4 - Cape Town,Residential,NDK-CPT,Cape Town,Western Cape,-32.203126,18.75379
+CL1154,Residential Client 5 - Cape Town,Industrial,NDK-CPT,Cape Town,Western Cape,-34.654145,19.54576
+CL1155,Retail Client 6 - Cape Town,Governmental,NDK-CPT,Cape Town,Western Cape,-33.75729,21.257182
+CL1156,Retail Client 7 - Cape Town,Residential,NDK-CPT,Cape Town,Western Cape,-34.725489,21.496567
+CL1157,Governmental Client 8 - Cape Town,Industrial,NDK-CPT,Cape Town,Western Cape,-32.893472,21.436059
+CL1158,Retail Client 9 - Cape Town,Governmental,NDK-CPT,Cape Town,Western Cape,-33.098919,21.085423
+CL1159,Residential Client 10 - Cape Town,Community,NDK-CPT,Cape Town,Western Cape,-33.860477,19.328352
+CL1160,Industrial Client 11 - Cape Town,Commercial,NDK-CPT,Cape Town,Western Cape,-33.708352,20.868229
+CL1161,Community Client 12 - Cape Town,Governmental,NDK-CPT,Cape Town,Western Cape,-33.765985,18.920435
+CL1162,Industrial Client 13 - Cape Town,Governmental,NDK-CPT,Cape Town,Western Cape,-32.174529,21.450442
+CL1163,Residential Client 14 - Cape Town,Residential,NDK-CPT,Cape Town,Western Cape,-33.823368,20.411625
+CL1164,Industrial Client 15 - Cape Town,Commercial,NDK-CPT,Cape Town,Western Cape,-34.033242,18.783237
+CL1165,Community Client 16 - Cape Town,Governmental,NDK-CPT,Cape Town,Western Cape,-33.858249,19.24298
+CL1166,Residential Client 17 - Cape Town,Residential,NDK-CPT,Cape Town,Western Cape,-32.329627,21.124754
+CL1167,Industrial Client 18 - Cape Town,Industrial,NDK-CPT,Cape Town,Western Cape,-32.813055,21.645512
+CL1168,Retail Client 19 - Cape Town,Commercial,NDK-CPT,Cape Town,Western Cape,-33.616879,18.931126
+CL1169,Retail Client 20 - Cape Town,Retail,NDK-CPT,Cape Town,Western Cape,-34.471284,19.144003
+CL1170,Governmental Client 21 - Cape Town,Community,NDK-CPT,Cape Town,Western Cape,-34.393262,18.350307
+CL1171,Governmental Client 22 - Cape Town,Community,NDK-CPT,Cape Town,Western Cape,-33.11179,19.383912
+CL1172,Commercial Client 23 - Cape Town,Governmental,NDK-CPT,Cape Town,Western Cape,-33.219203,18.727076
+CL1173,Residential Client 24 - Cape Town,Retail,NDK-CPT,Cape Town,Western Cape,-32.904664,18.818921
+CL1174,Governmental Client 25 - Cape Town,Residential,NDK-CPT,Cape Town,Western Cape,-34.021534,20.81869
+CL1175,Commercial Client 26 - Cape Town,Industrial,NDK-CPT,Cape Town,Western Cape,-33.232734,19.272378
+CL1176,Industrial Client 27 - Cape Town,Commercial,NDK-CPT,Cape Town,Western Cape,-33.279631,20.637142
+CL1177,Residential Client 28 - Cape Town,Retail,NDK-CPT,Cape Town,Western Cape,-32.24603,20.20671
+CL1178,Governmental Client 29 - Cape Town,Residential,NDK-CPT,Cape Town,Western Cape,-34.148478,20.837451
+CL1179,Residential Client 30 - Cape Town,Industrial,NDK-CPT,Cape Town,Western Cape,-32.622247,18.761525
+CL1180,Community Client 31 - Cape Town,Residential,NDK-CPT,Cape Town,Western Cape,-32.502392,19.766752
+CL1181,Retail Client 32 - Cape Town,Industrial,NDK-CPT,Cape Town,Western Cape,-32.616653,18.902417
+CL1182,Community Client 33 - Cape Town,Governmental,NDK-CPT,Cape Town,Western Cape,-33.868775,21.624049
+CL1183,Commercial Client 34 - Cape Town,Community,NDK-CPT,Cape Town,Western Cape,-32.958118,20.936936
+CL1184,Retail Client 35 - Cape Town,Industrial,NDK-CPT,Cape Town,Western Cape,-32.872552,18.776356
+CL1185,Industrial Client 36 - Cape Town,Commercial,NDK-CPT,Cape Town,Western Cape,-33.482072,21.074063
+CL1186,Governmental Client 37 - Cape Town,Industrial,NDK-CPT,Cape Town,Western Cape,-32.909902,18.022906
+CL1187,Governmental Client 38 - Cape Town,Retail,NDK-CPT,Cape Town,Western Cape,-34.555258,19.31782
+CL1188,Residential Client 39 - Cape Town,Retail,NDK-CPT,Cape Town,Western Cape,-32.155776,19.866524
+CL1189,Governmental Client 40 - Cape Town,Community,NDK-CPT,Cape Town,Western Cape,-34.043506,19.36961
+CL1190,Commercial Client 41 - Cape Town,Commercial,NDK-CPT,Cape Town,Western Cape,-34.210173,19.60056
+CL1191,Retail Client 42 - Cape Town,Industrial,NDK-CPT,Cape Town,Western Cape,-34.189501,21.21386
+CL1192,Residential Client 43 - Cape Town,Commercial,NDK-CPT,Cape Town,Western Cape,-33.522442,19.063248
+CL1193,Community Client 44 - Cape Town,Residential,NDK-CPT,Cape Town,Western Cape,-32.187903,19.194535
+CL1194,Commercial Client 45 - Cape Town,Industrial,NDK-CPT,Cape Town,Western Cape,-32.252799,18.164989
+CL1195,Governmental Client 46 - Cape Town,Governmental,NDK-CPT,Cape Town,Western Cape,-32.820078,19.838778
+CL1196,Commercial Client 47 - Cape Town,Industrial,NDK-CPT,Cape Town,Western Cape,-33.556181,18.138029
+CL1197,Residential Client 48 - Cape Town,Retail,NDK-CPT,Cape Town,Western Cape,-34.686087,19.264464
+CL1198,Retail Client 49 - Cape Town,Governmental,NDK-CPT,Cape Town,Western Cape,-32.148065,20.347108
+CL1199,Residential Client 50 - Cape Town,Residential,NDK-CPT,Cape Town,Western Cape,-33.76715,20.325513
+CL1200,Residential Client 1 - Polokwane,Industrial,NDK-PLK,Polokwane,Limpopo,-24.243445,28.808826
+CL1201,Commercial Client 2 - Polokwane,Residential,NDK-PLK,Polokwane,Limpopo,-23.823093,32.230431
+CL1202,Retail Client 3 - Polokwane,Community,NDK-PLK,Polokwane,Limpopo,-23.424615,29.454817
+CL1203,Governmental Client 4 - Polokwane,Governmental,NDK-PLK,Polokwane,Limpopo,-22.234321,31.998234
+CL1204,Governmental Client 5 - Polokwane,Retail,NDK-PLK,Polokwane,Limpopo,-23.92797,32.763281
+CL1205,Retail Client 6 - Polokwane,Residential,NDK-PLK,Polokwane,Limpopo,-22.134152,30.002435
+CL1206,Governmental Client 7 - Polokwane,Community,NDK-PLK,Polokwane,Limpopo,-23.029008,29.987701
+CL1207,Governmental Client 8 - Polokwane,Residential,NDK-PLK,Polokwane,Limpopo,-24.10516,28.404998
+CL1208,Industrial Client 9 - Polokwane,Commercial,NDK-PLK,Polokwane,Limpopo,-24.088252,29.330251
+CL1209,Governmental Client 10 - Polokwane,Commercial,NDK-PLK,Polokwane,Limpopo,-23.723674,28.905942
+CL1210,Commercial Client 11 - Polokwane,Commercial,NDK-PLK,Polokwane,Limpopo,-22.22469,28.504111
+CL1211,Commercial Client 12 - Polokwane,Retail,NDK-PLK,Polokwane,Limpopo,-23.111937,30.164317
+CL1212,Commercial Client 13 - Polokwane,Commercial,NDK-PLK,Polokwane,Limpopo,-23.656501,29.82276
+CL1213,Retail Client 14 - Polokwane,Governmental,NDK-PLK,Polokwane,Limpopo,-22.45555,29.374337
+CL1214,Retail Client 15 - Polokwane,Retail,NDK-PLK,Polokwane,Limpopo,-24.744444,32.498675
+CL1215,Governmental Client 16 - Polokwane,Community,NDK-PLK,Polokwane,Limpopo,-22.465903,29.356819
+CL1216,Industrial Client 17 - Polokwane,Residential,NDK-PLK,Polokwane,Limpopo,-23.386584,28.534532
+CL1217,Retail Client 18 - Polokwane,Retail,NDK-PLK,Polokwane,Limpopo,-24.547747,32.103584
+CL1218,Commercial Client 19 - Polokwane,Community,NDK-PLK,Polokwane,Limpopo,-23.692283,31.242411
+CL1219,Governmental Client 20 - Polokwane,Community,NDK-PLK,Polokwane,Limpopo,-22.253358,29.20114
+CL1220,Industrial Client 21 - Polokwane,Commercial,NDK-PLK,Polokwane,Limpopo,-24.764468,28.118327
+CL1221,Industrial Client 22 - Polokwane,Retail,NDK-PLK,Polokwane,Limpopo,-22.884659,32.530304
+CL1222,Industrial Client 23 - Polokwane,Community,NDK-PLK,Polokwane,Limpopo,-23.538208,29.838035
+CL1223,Community Client 24 - Polokwane,Industrial,NDK-PLK,Polokwane,Limpopo,-23.334277,32.208693
+CL1224,Commercial Client 25 - Polokwane,Residential,NDK-PLK,Polokwane,Limpopo,-23.039185,29.141601
+CL1225,Retail Client 26 - Polokwane,Community,NDK-PLK,Polokwane,Limpopo,-22.708633,28.659606
+CL1226,Industrial Client 27 - Polokwane,Commercial,NDK-PLK,Polokwane,Limpopo,-24.352988,31.002143
+CL1227,Governmental Client 28 - Polokwane,Commercial,NDK-PLK,Polokwane,Limpopo,-24.155285,31.453415
+CL1228,Governmental Client 29 - Polokwane,Commercial,NDK-PLK,Polokwane,Limpopo,-23.8563,29.359377
+CL1229,Residential Client 30 - Polokwane,Community,NDK-PLK,Polokwane,Limpopo,-22.10292,28.199019
+CL1230,Governmental Client 31 - Polokwane,Governmental,NDK-PLK,Polokwane,Limpopo,-23.056279,28.189628
+CL1231,Residential Client 32 - Polokwane,Commercial,NDK-PLK,Polokwane,Limpopo,-22.747432,29.127441
+CL1232,Governmental Client 33 - Polokwane,Retail,NDK-PLK,Polokwane,Limpopo,-24.557454,31.177404
+CL1233,Governmental Client 34 - Polokwane,Retail,NDK-PLK,Polokwane,Limpopo,-22.821977,31.322667
+CL1234,Industrial Client 35 - Polokwane,Commercial,NDK-PLK,Polokwane,Limpopo,-24.659867,29.442104
+CL1235,Governmental Client 36 - Polokwane,Community,NDK-PLK,Polokwane,Limpopo,-23.582061,29.406806
+CL1236,Community Client 37 - Polokwane,Retail,NDK-PLK,Polokwane,Limpopo,-22.611614,28.642464
+CL1237,Commercial Client 38 - Polokwane,Retail,NDK-PLK,Polokwane,Limpopo,-23.147116,32.842253
+CL1238,Governmental Client 39 - Polokwane,Industrial,NDK-PLK,Polokwane,Limpopo,-22.363097,29.08857
+CL1239,Residential Client 40 - Polokwane,Residential,NDK-PLK,Polokwane,Limpopo,-24.799779,32.804927
+CL1240,Retail Client 41 - Polokwane,Governmental,NDK-PLK,Polokwane,Limpopo,-22.416675,32.505415
+CL1241,Residential Client 42 - Polokwane,Industrial,NDK-PLK,Polokwane,Limpopo,-23.67814,31.648616
+CL1242,Industrial Client 43 - Polokwane,Industrial,NDK-PLK,Polokwane,Limpopo,-24.225355,29.92229
+CL1243,Commercial Client 44 - Polokwane,Governmental,NDK-PLK,Polokwane,Limpopo,-22.50082,28.6253
+CL1244,Retail Client 45 - Polokwane,Retail,NDK-PLK,Polokwane,Limpopo,-22.386564,30.432889
+CL1245,Residential Client 46 - Polokwane,Retail,NDK-PLK,Polokwane,Limpopo,-23.649542,29.497667
+CL1246,Residential Client 47 - Polokwane,Community,NDK-PLK,Polokwane,Limpopo,-22.324508,30.536355
+CL1247,Industrial Client 48 - Polokwane,Community,NDK-PLK,Polokwane,Limpopo,-22.629129,32.202494
+CL1248,Retail Client 49 - Polokwane,Community,NDK-PLK,Polokwane,Limpopo,-22.309568,29.486566
+CL1249,Commercial Client 50 - Polokwane,Governmental,NDK-PLK,Polokwane,Limpopo,-23.882511,30.915862
+CL1250,Commercial Client 1 - Bloemfontein,Governmental,NDK-BFN,Bloemfontein,Free State,-28.781644,29.477644
+CL1251,Commercial Client 2 - Bloemfontein,Governmental,NDK-BFN,Bloemfontein,Free State,-28.991693,27.293335
+CL1252,Commercial Client 3 - Bloemfontein,Retail,NDK-BFN,Bloemfontein,Free State,-27.937507,26.94275
+CL1253,Commercial Client 4 - Bloemfontein,Retail,NDK-BFN,Bloemfontein,Free State,-26.136104,25.474486
+CL1254,Industrial Client 5 - Bloemfontein,Retail,NDK-BFN,Bloemfontein,Free State,-29.841104,26.548745
+CL1255,Retail Client 6 - Bloemfontein,Commercial,NDK-BFN,Bloemfontein,Free State,-30.19093,26.364252
+CL1256,Commercial Client 7 - Bloemfontein,Governmental,NDK-BFN,Bloemfontein,Free State,-27.159623,27.509882
+CL1257,Governmental Client 8 - Bloemfontein,Commercial,NDK-BFN,Bloemfontein,Free State,-30.737023,29.716588
+CL1258,Community Client 9 - Bloemfontein,Governmental,NDK-BFN,Bloemfontein,Free State,-27.943169,25.282909
+CL1259,Retail Client 10 - Bloemfontein,Retail,NDK-BFN,Bloemfontein,Free State,-27.72639,26.816173
+CL1260,Commercial Client 11 - Bloemfontein,Retail,NDK-BFN,Bloemfontein,Free State,-30.248768,27.70559
+CL1261,Governmental Client 12 - Bloemfontein,Community,NDK-BFN,Bloemfontein,Free State,-27.410016,28.221408
+CL1262,Retail Client 13 - Bloemfontein,Commercial,NDK-BFN,Bloemfontein,Free State,-29.711937,27.519358
+CL1263,Community Client 14 - Bloemfontein,Retail,NDK-BFN,Bloemfontein,Free State,-28.319215,28.440656
+CL1264,Industrial Client 15 - Bloemfontein,Governmental,NDK-BFN,Bloemfontein,Free State,-29.172637,28.829116
+CL1265,Commercial Client 16 - Bloemfontein,Commercial,NDK-BFN,Bloemfontein,Free State,-27.885975,25.183992
+CL1266,Commercial Client 17 - Bloemfontein,Governmental,NDK-BFN,Bloemfontein,Free State,-28.276901,29.137178
+CL1267,Industrial Client 18 - Bloemfontein,Community,NDK-BFN,Bloemfontein,Free State,-28.175644,25.843976
+CL1268,Commercial Client 19 - Bloemfontein,Retail,NDK-BFN,Bloemfontein,Free State,-28.450193,28.63334
+CL1269,Community Client 20 - Bloemfontein,Retail,NDK-BFN,Bloemfontein,Free State,-30.371495,28.922076
+CL1270,Industrial Client 21 - Bloemfontein,Industrial,NDK-BFN,Bloemfontein,Free State,-30.096088,27.563567
+CL1271,Community Client 22 - Bloemfontein,Governmental,NDK-BFN,Bloemfontein,Free State,-29.048431,26.193394
+CL1272,Industrial Client 23 - Bloemfontein,Commercial,NDK-BFN,Bloemfontein,Free State,-27.792324,25.179482
+CL1273,Retail Client 24 - Bloemfontein,Retail,NDK-BFN,Bloemfontein,Free State,-27.25178,27.529315
+CL1274,Residential Client 25 - Bloemfontein,Retail,NDK-BFN,Bloemfontein,Free State,-26.696298,27.499448
+CL1275,Retail Client 26 - Bloemfontein,Commercial,NDK-BFN,Bloemfontein,Free State,-30.731841,25.689285
+CL1276,Industrial Client 27 - Bloemfontein,Commercial,NDK-BFN,Bloemfontein,Free State,-27.081098,27.361485
+CL1277,Commercial Client 28 - Bloemfontein,Residential,NDK-BFN,Bloemfontein,Free State,-28.778979,26.528487
+CL1278,Retail Client 29 - Bloemfontein,Residential,NDK-BFN,Bloemfontein,Free State,-29.534164,29.636254
+CL1279,Community Client 30 - Bloemfontein,Residential,NDK-BFN,Bloemfontein,Free State,-28.821747,29.243215
+CL1280,Industrial Client 31 - Bloemfontein,Governmental,NDK-BFN,Bloemfontein,Free State,-27.788817,29.120453
+CL1281,Residential Client 32 - Bloemfontein,Industrial,NDK-BFN,Bloemfontein,Free State,-26.808242,29.590298
+CL1282,Industrial Client 33 - Bloemfontein,Community,NDK-BFN,Bloemfontein,Free State,-27.549877,28.865905
+CL1283,Commercial Client 34 - Bloemfontein,Governmental,NDK-BFN,Bloemfontein,Free State,-27.380986,27.905089
+CL1284,Retail Client 35 - Bloemfontein,Residential,NDK-BFN,Bloemfontein,Free State,-27.4567,28.435602
+CL1285,Industrial Client 36 - Bloemfontein,Industrial,NDK-BFN,Bloemfontein,Free State,-30.703643,27.477332
+CL1286,Industrial Client 37 - Bloemfontein,Community,NDK-BFN,Bloemfontein,Free State,-27.095273,26.166218
+CL1287,Retail Client 38 - Bloemfontein,Industrial,NDK-BFN,Bloemfontein,Free State,-28.66729,27.087931
+CL1288,Residential Client 39 - Bloemfontein,Retail,NDK-BFN,Bloemfontein,Free State,-28.966622,25.58483
+CL1289,Community Client 40 - Bloemfontein,Industrial,NDK-BFN,Bloemfontein,Free State,-28.376585,27.141992
+CL1290,Retail Client 41 - Bloemfontein,Governmental,NDK-BFN,Bloemfontein,Free State,-27.715715,27.637183
+CL1291,Community Client 42 - Bloemfontein,Commercial,NDK-BFN,Bloemfontein,Free State,-30.767794,25.153206
+CL1292,Residential Client 43 - Bloemfontein,Industrial,NDK-BFN,Bloemfontein,Free State,-27.533473,28.396389
+CL1293,Governmental Client 44 - Bloemfontein,Retail,NDK-BFN,Bloemfontein,Free State,-26.292292,29.208182
+CL1294,Community Client 45 - Bloemfontein,Residential,NDK-BFN,Bloemfontein,Free State,-28.653314,28.004351
+CL1295,Community Client 46 - Bloemfontein,Residential,NDK-BFN,Bloemfontein,Free State,-28.705528,26.070142
+CL1296,Commercial Client 47 - Bloemfontein,Governmental,NDK-BFN,Bloemfontein,Free State,-29.09195,25.498644
+CL1297,Community Client 48 - Bloemfontein,Community,NDK-BFN,Bloemfontein,Free State,-27.70067,25.921745
+CL1298,Retail Client 49 - Bloemfontein,Commercial,NDK-BFN,Bloemfontein,Free State,-28.617755,29.643696
+CL1299,Commercial Client 50 - Bloemfontein,Community,NDK-BFN,Bloemfontein,Free State,-30.747989,25.728304
+CL1300,Industrial Client 1 - Rustenburg,Governmental,NDK-RST,Rustenburg,North West,-26.63412,26.709035
+CL1301,Governmental Client 2 - Rustenburg,Industrial,NDK-RST,Rustenburg,North West,-24.864359,22.810004
+CL1302,Community Client 3 - Rustenburg,Residential,NDK-RST,Rustenburg,North West,-24.654758,25.753738
+CL1303,Residential Client 4 - Rustenburg,Commercial,NDK-RST,Rustenburg,North West,-25.934066,26.658514
+CL1304,Governmental Client 5 - Rustenburg,Retail,NDK-RST,Rustenburg,North West,-24.946239,23.956582
+CL1305,Industrial Client 6 - Rustenburg,Community,NDK-RST,Rustenburg,North West,-25.596605,25.236926
+CL1306,Retail Client 7 - Rustenburg,Community,NDK-RST,Rustenburg,North West,-26.551792,22.896951
+CL1307,Community Client 8 - Rustenburg,Commercial,NDK-RST,Rustenburg,North West,-26.146251,23.316405
+CL1308,Commercial Client 9 - Rustenburg,Industrial,NDK-RST,Rustenburg,North West,-26.470311,26.77072
+CL1309,Commercial Client 10 - Rustenburg,Retail,NDK-RST,Rustenburg,North West,-26.1627,25.424457
+CL1310,Commercial Client 11 - Rustenburg,Community,NDK-RST,Rustenburg,North West,-26.524933,26.979305
+CL1311,Residential Client 12 - Rustenburg,Retail,NDK-RST,Rustenburg,North West,-25.589574,22.980047
+CL1312,Industrial Client 13 - Rustenburg,Retail,NDK-RST,Rustenburg,North West,-27.215266,26.715903
+CL1313,Retail Client 14 - Rustenburg,Industrial,NDK-RST,Rustenburg,North West,-24.760144,25.106642
+CL1314,Retail Client 15 - Rustenburg,Industrial,NDK-RST,Rustenburg,North West,-27.450725,23.127674
+CL1315,Industrial Client 16 - Rustenburg,Commercial,NDK-RST,Rustenburg,North West,-25.176297,26.377299
+CL1316,Industrial Client 17 - Rustenburg,Governmental,NDK-RST,Rustenburg,North West,-26.18343,23.827603
+CL1317,Retail Client 18 - Rustenburg,Residential,NDK-RST,Rustenburg,North West,-26.704747,22.584853
+CL1318,Industrial Client 19 - Rustenburg,Residential,NDK-RST,Rustenburg,North West,-27.164341,26.763013
+CL1319,Residential Client 20 - Rustenburg,Retail,NDK-RST,Rustenburg,North West,-25.154984,22.823897
+CL1320,Community Client 21 - Rustenburg,Residential,NDK-RST,Rustenburg,North West,-26.899555,25.277758
+CL1321,Retail Client 22 - Rustenburg,Industrial,NDK-RST,Rustenburg,North West,-25.282474,26.051574
+CL1322,Industrial Client 23 - Rustenburg,Community,NDK-RST,Rustenburg,North West,-27.026321,26.920641
+CL1323,Community Client 24 - Rustenburg,Industrial,NDK-RST,Rustenburg,North West,-26.839374,24.947077
+CL1324,Governmental Client 25 - Rustenburg,Commercial,NDK-RST,Rustenburg,North West,-25.795914,26.836809
+CL1325,Retail Client 26 - Rustenburg,Retail,NDK-RST,Rustenburg,North West,-25.592764,24.924521
+CL1326,Retail Client 27 - Rustenburg,Residential,NDK-RST,Rustenburg,North West,-25.99556,25.823288
+CL1327,Retail Client 28 - Rustenburg,Governmental,NDK-RST,Rustenburg,North West,-27.19244,22.01046
+CL1328,Governmental Client 29 - Rustenburg,Industrial,NDK-RST,Rustenburg,North West,-24.737782,24.493288
+CL1329,Community Client 30 - Rustenburg,Commercial,NDK-RST,Rustenburg,North West,-26.547827,23.840266
+CL1330,Commercial Client 31 - Rustenburg,Governmental,NDK-RST,Rustenburg,North West,-25.168854,23.911851
+CL1331,Retail Client 32 - Rustenburg,Governmental,NDK-RST,Rustenburg,North West,-25.266509,24.20231
+CL1332,Commercial Client 33 - Rustenburg,Commercial,NDK-RST,Rustenburg,North West,-25.052175,22.38102
+CL1333,Retail Client 34 - Rustenburg,Governmental,NDK-RST,Rustenburg,North West,-26.104728,24.334249
+CL1334,Commercial Client 35 - Rustenburg,Retail,NDK-RST,Rustenburg,North West,-26.733449,26.718074
+CL1335,Commercial Client 36 - Rustenburg,Residential,NDK-RST,Rustenburg,North West,-24.875417,24.217982
+CL1336,Industrial Client 37 - Rustenburg,Governmental,NDK-RST,Rustenburg,North West,-27.218237,23.033916
+CL1337,Commercial Client 38 - Rustenburg,Governmental,NDK-RST,Rustenburg,North West,-26.712674,24.421099
+CL1338,Industrial Client 39 - Rustenburg,Retail,NDK-RST,Rustenburg,North West,-26.518706,25.87068
+CL1339,Retail Client 40 - Rustenburg,Retail,NDK-RST,Rustenburg,North West,-26.119523,26.351853
+CL1340,Residential Client 41 - Rustenburg,Governmental,NDK-RST,Rustenburg,North West,-24.612233,23.09918
+CL1341,Industrial Client 42 - Rustenburg,Residential,NDK-RST,Rustenburg,North West,-25.726153,26.237512
+CL1342,Retail Client 43 - Rustenburg,Community,NDK-RST,Rustenburg,North West,-24.758814,23.450432
+CL1343,Community Client 44 - Rustenburg,Residential,NDK-RST,Rustenburg,North West,-25.391576,22.075081
+CL1344,Community Client 45 - Rustenburg,Commercial,NDK-RST,Rustenburg,North West,-24.950487,22.319693
+CL1345,Industrial Client 46 - Rustenburg,Industrial,NDK-RST,Rustenburg,North West,-25.373153,26.973052
+CL1346,Residential Client 47 - Rustenburg,Residential,NDK-RST,Rustenburg,North West,-26.04655,23.04667
+CL1347,Community Client 48 - Rustenburg,Industrial,NDK-RST,Rustenburg,North West,-25.775534,25.12075
+CL1348,Retail Client 49 - Rustenburg,Community,NDK-RST,Rustenburg,North West,-25.562589,22.863059
+CL1349,Commercial Client 50 - Rustenburg,Industrial,NDK-RST,Rustenburg,North West,-24.893733,25.104957
+CL1350,Industrial Client 1 - Mbombela,Commercial,NDK-NLP,Mbombela,Mpumalanga,-26.786721,31.052123
+CL1351,Governmental Client 2 - Mbombela,Commercial,NDK-NLP,Mbombela,Mpumalanga,-26.390181,29.082022
+CL1352,Governmental Client 3 - Mbombela,Retail,NDK-NLP,Mbombela,Mpumalanga,-25.467521,31.439941
+CL1353,Governmental Client 4 - Mbombela,Retail,NDK-NLP,Mbombela,Mpumalanga,-24.664153,29.310563
+CL1354,Commercial Client 5 - Mbombela,Commercial,NDK-NLP,Mbombela,Mpumalanga,-25.176089,31.130226
+CL1355,Community Client 6 - Mbombela,Retail,NDK-NLP,Mbombela,Mpumalanga,-26.134256,31.914092
+CL1356,Residential Client 7 - Mbombela,Commercial,NDK-NLP,Mbombela,Mpumalanga,-26.175413,29.209947
+CL1357,Retail Client 8 - Mbombela,Governmental,NDK-NLP,Mbombela,Mpumalanga,-25.549871,31.082945
+CL1358,Residential Client 9 - Mbombela,Commercial,NDK-NLP,Mbombela,Mpumalanga,-26.263885,30.015747
+CL1359,Governmental Client 10 - Mbombela,Residential,NDK-NLP,Mbombela,Mpumalanga,-25.434567,31.660034
+CL1360,Community Client 11 - Mbombela,Governmental,NDK-NLP,Mbombela,Mpumalanga,-24.956953,29.628776
+CL1361,Community Client 12 - Mbombela,Residential,NDK-NLP,Mbombela,Mpumalanga,-26.24538,30.571642
+CL1362,Industrial Client 13 - Mbombela,Retail,NDK-NLP,Mbombela,Mpumalanga,-24.900707,30.856285
+CL1363,Commercial Client 14 - Mbombela,Retail,NDK-NLP,Mbombela,Mpumalanga,-25.596557,30.791376
+CL1364,Governmental Client 15 - Mbombela,Retail,NDK-NLP,Mbombela,Mpumalanga,-24.934244,30.611239
+CL1365,Residential Client 16 - Mbombela,Industrial,NDK-NLP,Mbombela,Mpumalanga,-24.565843,31.841202
+CL1366,Community Client 17 - Mbombela,Retail,NDK-NLP,Mbombela,Mpumalanga,-24.520078,31.263555
+CL1367,Commercial Client 18 - Mbombela,Community,NDK-NLP,Mbombela,Mpumalanga,-26.259565,30.155814
+CL1368,Retail Client 19 - Mbombela,Commercial,NDK-NLP,Mbombela,Mpumalanga,-26.172,30.972981
+CL1369,Community Client 20 - Mbombela,Residential,NDK-NLP,Mbombela,Mpumalanga,-26.057024,31.263175
+CL1370,Retail Client 21 - Mbombela,Community,NDK-NLP,Mbombela,Mpumalanga,-26.604876,31.326094
+CL1371,Retail Client 22 - Mbombela,Governmental,NDK-NLP,Mbombela,Mpumalanga,-25.376655,31.506166
+CL1372,Community Client 23 - Mbombela,Governmental,NDK-NLP,Mbombela,Mpumalanga,-25.779723,30.874893
+CL1373,Residential Client 24 - Mbombela,Governmental,NDK-NLP,Mbombela,Mpumalanga,-25.458528,31.927014
+CL1374,Industrial Client 25 - Mbombela,Community,NDK-NLP,Mbombela,Mpumalanga,-24.935767,30.63444
+CL1375,Commercial Client 26 - Mbombela,Community,NDK-NLP,Mbombela,Mpumalanga,-26.447517,31.712343
+CL1376,Community Client 27 - Mbombela,Governmental,NDK-NLP,Mbombela,Mpumalanga,-26.364822,30.95013
+CL1377,Governmental Client 28 - Mbombela,Community,NDK-NLP,Mbombela,Mpumalanga,-24.465173,29.670739
+CL1378,Community Client 29 - Mbombela,Retail,NDK-NLP,Mbombela,Mpumalanga,-26.312599,31.555457
+CL1379,Retail Client 30 - Mbombela,Retail,NDK-NLP,Mbombela,Mpumalanga,-24.748097,30.05511
+CL1380,Commercial Client 31 - Mbombela,Commercial,NDK-NLP,Mbombela,Mpumalanga,-26.21075,29.382165
+CL1381,Community Client 32 - Mbombela,Community,NDK-NLP,Mbombela,Mpumalanga,-24.331366,31.506029
+CL1382,Commercial Client 33 - Mbombela,Community,NDK-NLP,Mbombela,Mpumalanga,-24.561582,30.541038
+CL1383,Community Client 34 - Mbombela,Residential,NDK-NLP,Mbombela,Mpumalanga,-26.602599,29.157741
+CL1384,Industrial Client 35 - Mbombela,Industrial,NDK-NLP,Mbombela,Mpumalanga,-26.040487,31.760991
+CL1385,Residential Client 36 - Mbombela,Governmental,NDK-NLP,Mbombela,Mpumalanga,-24.436287,31.523492
+CL1386,Community Client 37 - Mbombela,Industrial,NDK-NLP,Mbombela,Mpumalanga,-26.487434,30.25977
+CL1387,Industrial Client 38 - Mbombela,Governmental,NDK-NLP,Mbombela,Mpumalanga,-26.259768,29.616049
+CL1388,Commercial Client 39 - Mbombela,Residential,NDK-NLP,Mbombela,Mpumalanga,-25.119453,30.458335
+CL1389,Residential Client 40 - Mbombela,Community,NDK-NLP,Mbombela,Mpumalanga,-26.055235,29.300643
+CL1390,Residential Client 41 - Mbombela,Retail,NDK-NLP,Mbombela,Mpumalanga,-25.483615,30.041075
+CL1391,Retail Client 42 - Mbombela,Residential,NDK-NLP,Mbombela,Mpumalanga,-25.883151,29.931526
+CL1392,Residential Client 43 - Mbombela,Community,NDK-NLP,Mbombela,Mpumalanga,-25.893292,30.667579
+CL1393,Commercial Client 44 - Mbombela,Residential,NDK-NLP,Mbombela,Mpumalanga,-26.863226,31.542941
+CL1394,Residential Client 45 - Mbombela,Community,NDK-NLP,Mbombela,Mpumalanga,-24.503008,30.651589
+CL1395,Residential Client 46 - Mbombela,Retail,NDK-NLP,Mbombela,Mpumalanga,-26.203145,31.970717
+CL1396,Governmental Client 47 - Mbombela,Community,NDK-NLP,Mbombela,Mpumalanga,-25.903696,31.080966
+CL1397,Commercial Client 48 - Mbombela,Community,NDK-NLP,Mbombela,Mpumalanga,-25.106123,30.302927
+CL1398,Residential Client 49 - Mbombela,Governmental,NDK-NLP,Mbombela,Mpumalanga,-26.382189,31.899738
+CL1399,Retail Client 50 - Mbombela,Industrial,NDK-NLP,Mbombela,Mpumalanga,-26.734404,30.455448

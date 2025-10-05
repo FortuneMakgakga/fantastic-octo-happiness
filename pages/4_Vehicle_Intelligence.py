@@ -6,6 +6,8 @@ import datetime
 import requests
 import os
 from dotenv import load_dotenv
+#from app import apply_theme
+#apply_theme()
 
 # ---------------------------
 # Load API Keys from .env

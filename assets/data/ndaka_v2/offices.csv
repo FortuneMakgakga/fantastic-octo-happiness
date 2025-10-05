@@ -1,0 +1,9 @@
+office_id,office_name,province,city,latitude,longitude
+NDK-JHB,Johannesburg HQ,Gauteng,Johannesburg,-26.204103,28.047305
+NDK-PTA,Pretoria Ops,Gauteng,Pretoria,-25.747868,28.229271
+NDK-DBN,Durban Ops,KwaZulu-Natal,Durban,-29.858681,31.021840
+NDK-CPT,Cape Town Ops,Western Cape,Cape Town,-33.924870,18.424055
+NDK-PLK,Polokwane Ops,Limpopo,Polokwane,-23.904472,29.468849
+NDK-BFN,Bloemfontein Ops,Free State,Bloemfontein,-29.121063,26.214001
+NDK-RST,Rustenburg Ops,North West,Rustenburg,-25.667560,27.242301
+NDK-NLP,Nelspruit Ops,Mpumalanga,Mbombela,-25.474480,30.970340

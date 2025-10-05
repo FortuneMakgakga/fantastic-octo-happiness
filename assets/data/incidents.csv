@@ -99,3 +99,4 @@ id,title,sector,province,town,incident_type,severity,status,date,time,lat,lon,pr
 1034,Vandalism at Mbali,Community,KwaZulu-Natal,Durban,Vandalism,Medium,Solved,2025-10-03,20:12,-29.859745,31.02817,P019,False,Vandalism reported by patrol. Sector=Community.
 1094,Intrusion at Mbali,VIP,KwaZulu-Natal,Durban,Intrusion,Low,Under investigation,2025-10-03,20:58,-29.864113,31.017826,P019,False,Intrusion reported by patrol. Sector=VIP.
 1070,Traffic Incident at BlueSquare,Commercial,Gauteng,Rosebank,Traffic Incident,Low,Open,2025-10-03,21:12,-26.143243,28.04589,P007,False,Traffic Incident reported by patrol. Sector=Commercial.
+1101,Mr,Retail,Gauteng,Roodepoort,Robbery,Low,Reported,2025-10-05,17:54,-26.136,27.875,,False,Shtttttort description of incident
