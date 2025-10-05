@@ -6,6 +6,8 @@ import pandas as pd
 import folium
 from streamlit_folium import st_folium
 from dotenv import load_dotenv
+#from app import apply_theme
+#apply_theme()
 from io import BytesIO
 from PIL import Image, ImageDraw
 

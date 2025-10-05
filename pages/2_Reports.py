@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+#from app import apply_theme
+# apply_theme()
 
 st.title("📑 Reports")
 st.markdown("---")
