@@ -1,0 +1,271 @@
+province,month,crime_type,incident_count,risk_level
+Gauteng,2025-05-01,Contact Crime,189,high
+Gauteng,2025-05-01,Property Crime,237,high
+Gauteng,2025-05-01,Commercial Crime,109,medium
+Gauteng,2025-05-01,Public Disorder,63,low
+Gauteng,2025-05-01,Other,62,low
+Gauteng,2025-06-01,Contact Crime,153,medium
+Gauteng,2025-06-01,Property Crime,194,high
+Gauteng,2025-06-01,Commercial Crime,109,medium
+Gauteng,2025-06-01,Public Disorder,74,low
+Gauteng,2025-06-01,Other,70,low
+Gauteng,2025-07-01,Contact Crime,148,medium
+Gauteng,2025-07-01,Property Crime,242,high
+Gauteng,2025-07-01,Commercial Crime,119,medium
+Gauteng,2025-07-01,Public Disorder,83,low
+Gauteng,2025-07-01,Other,55,low
+Gauteng,2025-08-01,Contact Crime,195,high
+Gauteng,2025-08-01,Property Crime,213,high
+Gauteng,2025-08-01,Commercial Crime,107,medium
+Gauteng,2025-08-01,Public Disorder,100,low
+Gauteng,2025-08-01,Other,44,low
+Gauteng,2025-09-01,Contact Crime,171,high
+Gauteng,2025-09-01,Property Crime,231,high
+Gauteng,2025-09-01,Commercial Crime,73,low
+Gauteng,2025-09-01,Public Disorder,80,low
+Gauteng,2025-09-01,Other,57,low
+Gauteng,2025-10-01,Contact Crime,187,high
+Gauteng,2025-10-01,Property Crime,186,high
+Gauteng,2025-10-01,Commercial Crime,111,medium
+Gauteng,2025-10-01,Public Disorder,91,low
+Gauteng,2025-10-01,Other,45,low
+Western Cape,2025-05-01,Contact Crime,117,medium
+Western Cape,2025-05-01,Property Crime,228,high
+Western Cape,2025-05-01,Commercial Crime,111,medium
+Western Cape,2025-05-01,Public Disorder,55,low
+Western Cape,2025-05-01,Other,56,low
+Western Cape,2025-06-01,Contact Crime,167,medium
+Western Cape,2025-06-01,Property Crime,203,high
+Western Cape,2025-06-01,Commercial Crime,75,low
+Western Cape,2025-06-01,Public Disorder,85,low
+Western Cape,2025-06-01,Other,47,low
+Western Cape,2025-07-01,Contact Crime,143,medium
+Western Cape,2025-07-01,Property Crime,184,high
+Western Cape,2025-07-01,Commercial Crime,92,low
+Western Cape,2025-07-01,Public Disorder,72,low
+Western Cape,2025-07-01,Other,40,low
+Western Cape,2025-08-01,Contact Crime,170,medium
+Western Cape,2025-08-01,Property Crime,160,medium
+Western Cape,2025-08-01,Commercial Crime,105,medium
+Western Cape,2025-08-01,Public Disorder,73,low
+Western Cape,2025-08-01,Other,38,low
+Western Cape,2025-09-01,Contact Crime,177,high
+Western Cape,2025-09-01,Property Crime,184,high
+Western Cape,2025-09-01,Commercial Crime,88,low
+Western Cape,2025-09-01,Public Disorder,71,low
+Western Cape,2025-09-01,Other,58,low
+Western Cape,2025-10-01,Contact Crime,162,medium
+Western Cape,2025-10-01,Property Crime,251,high
+Western Cape,2025-10-01,Commercial Crime,70,low
+Western Cape,2025-10-01,Public Disorder,64,low
+Western Cape,2025-10-01,Other,34,low
+KwaZulu-Natal,2025-05-01,Contact Crime,133,medium
+KwaZulu-Natal,2025-05-01,Property Crime,160,medium
+KwaZulu-Natal,2025-05-01,Commercial Crime,92,low
+KwaZulu-Natal,2025-05-01,Public Disorder,72,low
+KwaZulu-Natal,2025-05-01,Other,37,low
+KwaZulu-Natal,2025-06-01,Contact Crime,186,high
+KwaZulu-Natal,2025-06-01,Property Crime,191,high
+KwaZulu-Natal,2025-06-01,Commercial Crime,82,low
+KwaZulu-Natal,2025-06-01,Public Disorder,64,low
+KwaZulu-Natal,2025-06-01,Other,38,low
+KwaZulu-Natal,2025-07-01,Contact Crime,162,medium
+KwaZulu-Natal,2025-07-01,Property Crime,172,high
+KwaZulu-Natal,2025-07-01,Commercial Crime,101,medium
+KwaZulu-Natal,2025-07-01,Public Disorder,61,low
+KwaZulu-Natal,2025-07-01,Other,49,low
+KwaZulu-Natal,2025-08-01,Contact Crime,168,medium
+KwaZulu-Natal,2025-08-01,Property Crime,191,high
+KwaZulu-Natal,2025-08-01,Commercial Crime,85,low
+KwaZulu-Natal,2025-08-01,Public Disorder,68,low
+KwaZulu-Natal,2025-08-01,Other,51,low
+KwaZulu-Natal,2025-09-01,Contact Crime,163,medium
+KwaZulu-Natal,2025-09-01,Property Crime,195,high
+KwaZulu-Natal,2025-09-01,Commercial Crime,106,medium
+KwaZulu-Natal,2025-09-01,Public Disorder,60,low
+KwaZulu-Natal,2025-09-01,Other,35,low
+KwaZulu-Natal,2025-10-01,Contact Crime,141,medium
+KwaZulu-Natal,2025-10-01,Property Crime,139,medium
+KwaZulu-Natal,2025-10-01,Commercial Crime,113,medium
+KwaZulu-Natal,2025-10-01,Public Disorder,63,low
+KwaZulu-Natal,2025-10-01,Other,42,low
+Eastern Cape,2025-05-01,Contact Crime,117,medium
+Eastern Cape,2025-05-01,Property Crime,157,medium
+Eastern Cape,2025-05-01,Commercial Crime,90,low
+Eastern Cape,2025-05-01,Public Disorder,59,low
+Eastern Cape,2025-05-01,Other,43,low
+Eastern Cape,2025-06-01,Contact Crime,125,medium
+Eastern Cape,2025-06-01,Property Crime,195,high
+Eastern Cape,2025-06-01,Commercial Crime,98,low
+Eastern Cape,2025-06-01,Public Disorder,69,low
+Eastern Cape,2025-06-01,Other,32,low
+Eastern Cape,2025-07-01,Contact Crime,122,medium
+Eastern Cape,2025-07-01,Property Crime,148,medium
+Eastern Cape,2025-07-01,Commercial Crime,93,low
+Eastern Cape,2025-07-01,Public Disorder,60,low
+Eastern Cape,2025-07-01,Other,47,low
+Eastern Cape,2025-08-01,Contact Crime,147,medium
+Eastern Cape,2025-08-01,Property Crime,147,medium
+Eastern Cape,2025-08-01,Commercial Crime,72,low
+Eastern Cape,2025-08-01,Public Disorder,51,low
+Eastern Cape,2025-08-01,Other,41,low
+Eastern Cape,2025-09-01,Contact Crime,132,medium
+Eastern Cape,2025-09-01,Property Crime,148,medium
+Eastern Cape,2025-09-01,Commercial Crime,119,medium
+Eastern Cape,2025-09-01,Public Disorder,58,low
+Eastern Cape,2025-09-01,Other,41,low
+Eastern Cape,2025-10-01,Contact Crime,136,medium
+Eastern Cape,2025-10-01,Property Crime,179,high
+Eastern Cape,2025-10-01,Commercial Crime,77,low
+Eastern Cape,2025-10-01,Public Disorder,70,low
+Eastern Cape,2025-10-01,Other,52,low
+Mpumalanga,2025-05-01,Contact Crime,106,medium
+Mpumalanga,2025-05-01,Property Crime,110,medium
+Mpumalanga,2025-05-01,Commercial Crime,78,low
+Mpumalanga,2025-05-01,Public Disorder,51,low
+Mpumalanga,2025-05-01,Other,49,low
+Mpumalanga,2025-06-01,Contact Crime,103,medium
+Mpumalanga,2025-06-01,Property Crime,172,high
+Mpumalanga,2025-06-01,Commercial Crime,80,low
+Mpumalanga,2025-06-01,Public Disorder,73,low
+Mpumalanga,2025-06-01,Other,46,low
+Mpumalanga,2025-07-01,Contact Crime,140,medium
+Mpumalanga,2025-07-01,Property Crime,156,medium
+Mpumalanga,2025-07-01,Commercial Crime,71,low
+Mpumalanga,2025-07-01,Public Disorder,67,low
+Mpumalanga,2025-07-01,Other,37,low
+Mpumalanga,2025-08-01,Contact Crime,119,medium
+Mpumalanga,2025-08-01,Property Crime,106,medium
+Mpumalanga,2025-08-01,Commercial Crime,78,low
+Mpumalanga,2025-08-01,Public Disorder,45,low
+Mpumalanga,2025-08-01,Other,36,low
+Mpumalanga,2025-09-01,Contact Crime,108,medium
+Mpumalanga,2025-09-01,Property Crime,170,medium
+Mpumalanga,2025-09-01,Commercial Crime,78,low
+Mpumalanga,2025-09-01,Public Disorder,71,low
+Mpumalanga,2025-09-01,Other,38,low
+Mpumalanga,2025-10-01,Contact Crime,155,medium
+Mpumalanga,2025-10-01,Property Crime,128,medium
+Mpumalanga,2025-10-01,Commercial Crime,60,low
+Mpumalanga,2025-10-01,Public Disorder,70,low
+Mpumalanga,2025-10-01,Other,36,low
+North West,2025-05-01,Contact Crime,122,medium
+North West,2025-05-01,Property Crime,134,medium
+North West,2025-05-01,Commercial Crime,74,low
+North West,2025-05-01,Public Disorder,58,low
+North West,2025-05-01,Other,29,low
+North West,2025-06-01,Contact Crime,81,low
+North West,2025-06-01,Property Crime,172,high
+North West,2025-06-01,Commercial Crime,61,low
+North West,2025-06-01,Public Disorder,55,low
+North West,2025-06-01,Other,33,low
+North West,2025-07-01,Contact Crime,140,medium
+North West,2025-07-01,Property Crime,156,medium
+North West,2025-07-01,Commercial Crime,72,low
+North West,2025-07-01,Public Disorder,61,low
+North West,2025-07-01,Other,32,low
+North West,2025-08-01,Contact Crime,113,medium
+North West,2025-08-01,Property Crime,116,medium
+North West,2025-08-01,Commercial Crime,74,low
+North West,2025-08-01,Public Disorder,60,low
+North West,2025-08-01,Other,24,low
+North West,2025-09-01,Contact Crime,96,low
+North West,2025-09-01,Property Crime,134,medium
+North West,2025-09-01,Commercial Crime,58,low
+North West,2025-09-01,Public Disorder,47,low
+North West,2025-09-01,Other,30,low
+North West,2025-10-01,Contact Crime,88,low
+North West,2025-10-01,Property Crime,109,medium
+North West,2025-10-01,Commercial Crime,86,low
+North West,2025-10-01,Public Disorder,58,low
+North West,2025-10-01,Other,40,low
+Free State,2025-05-01,Contact Crime,110,medium
+Free State,2025-05-01,Property Crime,114,medium
+Free State,2025-05-01,Commercial Crime,68,low
+Free State,2025-05-01,Public Disorder,25,low
+Free State,2025-05-01,Other,39,low
+Free State,2025-06-01,Contact Crime,79,low
+Free State,2025-06-01,Property Crime,127,medium
+Free State,2025-06-01,Commercial Crime,76,low
+Free State,2025-06-01,Public Disorder,40,low
+Free State,2025-06-01,Other,34,low
+Free State,2025-07-01,Contact Crime,111,medium
+Free State,2025-07-01,Property Crime,137,medium
+Free State,2025-07-01,Commercial Crime,73,low
+Free State,2025-07-01,Public Disorder,51,low
+Free State,2025-07-01,Other,45,low
+Free State,2025-08-01,Contact Crime,104,medium
+Free State,2025-08-01,Property Crime,129,medium
+Free State,2025-08-01,Commercial Crime,70,low
+Free State,2025-08-01,Public Disorder,62,low
+Free State,2025-08-01,Other,41,low
+Free State,2025-09-01,Contact Crime,109,medium
+Free State,2025-09-01,Property Crime,116,medium
+Free State,2025-09-01,Commercial Crime,80,low
+Free State,2025-09-01,Public Disorder,50,low
+Free State,2025-09-01,Other,31,low
+Free State,2025-10-01,Contact Crime,79,low
+Free State,2025-10-01,Property Crime,135,medium
+Free State,2025-10-01,Commercial Crime,78,low
+Free State,2025-10-01,Public Disorder,44,low
+Free State,2025-10-01,Other,40,low
+Limpopo,2025-05-01,Contact Crime,81,low
+Limpopo,2025-05-01,Property Crime,130,medium
+Limpopo,2025-05-01,Commercial Crime,58,low
+Limpopo,2025-05-01,Public Disorder,44,low
+Limpopo,2025-05-01,Other,28,low
+Limpopo,2025-06-01,Contact Crime,109,medium
+Limpopo,2025-06-01,Property Crime,104,medium
+Limpopo,2025-06-01,Commercial Crime,43,low
+Limpopo,2025-06-01,Public Disorder,42,low
+Limpopo,2025-06-01,Other,29,low
+Limpopo,2025-07-01,Contact Crime,86,low
+Limpopo,2025-07-01,Property Crime,136,medium
+Limpopo,2025-07-01,Commercial Crime,64,low
+Limpopo,2025-07-01,Public Disorder,48,low
+Limpopo,2025-07-01,Other,24,low
+Limpopo,2025-08-01,Contact Crime,112,medium
+Limpopo,2025-08-01,Property Crime,124,medium
+Limpopo,2025-08-01,Commercial Crime,66,low
+Limpopo,2025-08-01,Public Disorder,46,low
+Limpopo,2025-08-01,Other,33,low
+Limpopo,2025-09-01,Contact Crime,89,low
+Limpopo,2025-09-01,Property Crime,101,medium
+Limpopo,2025-09-01,Commercial Crime,62,low
+Limpopo,2025-09-01,Public Disorder,63,low
+Limpopo,2025-09-01,Other,21,low
+Limpopo,2025-10-01,Contact Crime,74,low
+Limpopo,2025-10-01,Property Crime,113,medium
+Limpopo,2025-10-01,Commercial Crime,55,low
+Limpopo,2025-10-01,Public Disorder,43,low
+Limpopo,2025-10-01,Other,37,low
+Northern Cape,2025-05-01,Contact Crime,81,low
+Northern Cape,2025-05-01,Property Crime,106,medium
+Northern Cape,2025-05-01,Commercial Crime,83,low
+Northern Cape,2025-05-01,Public Disorder,48,low
+Northern Cape,2025-05-01,Other,39,low
+Northern Cape,2025-06-01,Contact Crime,100,low
+Northern Cape,2025-06-01,Property Crime,113,medium
+Northern Cape,2025-06-01,Commercial Crime,41,low
+Northern Cape,2025-06-01,Public Disorder,49,low
+Northern Cape,2025-06-01,Other,25,low
+Northern Cape,2025-07-01,Contact Crime,66,low
+Northern Cape,2025-07-01,Property Crime,103,medium
+Northern Cape,2025-07-01,Commercial Crime,43,low
+Northern Cape,2025-07-01,Public Disorder,34,low
+Northern Cape,2025-07-01,Other,21,low
+Northern Cape,2025-08-01,Contact Crime,93,low
+Northern Cape,2025-08-01,Property Crime,109,medium
+Northern Cape,2025-08-01,Commercial Crime,46,low
+Northern Cape,2025-08-01,Public Disorder,37,low
+Northern Cape,2025-08-01,Other,35,low
+Northern Cape,2025-09-01,Contact Crime,67,low
+Northern Cape,2025-09-01,Property Crime,130,medium
+Northern Cape,2025-09-01,Commercial Crime,55,low
+Northern Cape,2025-09-01,Public Disorder,38,low
+Northern Cape,2025-09-01,Other,15,low
+Northern Cape,2025-10-01,Contact Crime,91,low
+Northern Cape,2025-10-01,Property Crime,142,medium
+Northern Cape,2025-10-01,Commercial Crime,49,low
+Northern Cape,2025-10-01,Public Disorder,59,low
+Northern Cape,2025-10-01,Other,27,low
