@@ -5,3 +5,12 @@ folium
 streamlit-folium
 python-dotenv
 pandas
+Pillow
+reportlab
+openpyxl
+rapidfuzz
+streamlit-page-link
+scikit-learn
+joblib
+plotly
+scikit-learn
