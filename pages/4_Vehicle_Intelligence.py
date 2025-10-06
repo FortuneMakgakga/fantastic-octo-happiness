@@ -514,7 +514,76 @@ def vehicle_intelligence_page():
         )
 
 # =========================
-# MAIN
+# DEMO CAROUSEL SECTION
 # =========================
+def demo_carousel_section():
+    st.markdown("## 🎞️ Vehicle Intelligence Demo Carousel")
+    st.info("Cycle through curated demo vehicles and see AI detection + enrichment in action.")
+
+    # Path to demo images
+    demo_dir = os.path.join(DATA_DIR, "../demo_images")
+    demo_images = sorted([
+        f for f in os.listdir(demo_dir)
+        if f.lower().endswith((".jpg", ".jpeg", ".png"))
+    ])
+
+    if not demo_images:
+        st.warning("⚠️ No demo images found in /assets/demo_images/. Please add your curated set.")
+        return
+
+    # Persistent index in session state
+    if "demo_idx" not in st.session_state:
+        st.session_state.demo_idx = 0
+
+    cols = st.columns([1, 2, 1])
+    with cols[0]:
+        if st.button("◀️ Previous"):
+            st.session_state.demo_idx = (st.session_state.demo_idx - 1) % len(demo_images)
+    with cols[2]:
+        if st.button("Next ▶️"):
+            st.session_state.demo_idx = (st.session_state.demo_idx + 1) % len(demo_images)
+
+    current_file = demo_images[st.session_state.demo_idx]
+    img_path = os.path.join(demo_dir, current_file)
+    st.subheader(f"🚘 {current_file}")
+    st.image(img_path, use_column_width=True)
+
+    # Model + confidence sliders (unique keys!)
+    model_label = st.selectbox(
+        "Select Model Version", 
+        list(MODEL_ENDPOINTS.keys()),
+        key="carousel_model_select"
+    )
+    project, model = MODEL_ENDPOINTS[model_label]
+    conf_pct = st.slider("Confidence Threshold", 5, 95, 50, key="carousel_conf_slider")
+    conf = conf_pct / 100.0
+
+    # Run detections
+    with open(img_path, "rb") as f:
+        img_bytes = f.read()
+
+    with st.spinner("Analyzing vehicle image..."):
+        vehicles = roboflow_detect(img_bytes, project, model, conf)
+        plates = plate_recognizer_detect(img_bytes)
+        pairs = match_vehicles_to_plates(vehicles, plates)
+        rows = build_rows_with_heuristics(pairs)
+        rows = enrich_with_database(rows)
+
+    st.markdown("### ✅ Detection Results")
+    st.dataframe(pd.DataFrame(rows))
+
+    annotated_buf = annotate_image(img_bytes, vehicles, plates)
+    st.image(annotated_buf, caption="Annotated Detection Preview", use_column_width=True)
+    pdf_buf = generate_pdf_report(annotated_buf, rows)
+    st.download_button(
+        label="📥 Download Detection Report (PDF)",
+        data=pdf_buf,
+        file_name=f"Vehicle_Report_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.pdf",
+        mime="application/pdf"
+    )   
+
+# Call it at the end of your page
 if __name__ == "__main__":
     vehicle_intelligence_page()
+    st.markdown("---")
+    demo_carousel_section()
