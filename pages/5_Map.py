@@ -10,8 +10,7 @@ st.set_page_config(page_title="Ndaka – Map & Assets", layout="wide")
 
 # --- Data paths ---
 DATA_DIR = "assets/data"
-DATA_OFF_DIR = os.path.join(DATA_DIR, "ndaka_v2")
-
+DATA_OFF_DIR="assets/data/ndaka_v2"
 CLIENTS_FILE = os.path.join(DATA_DIR, "clients.csv")
 PROPERTIES_FILE = os.path.join(DATA_DIR, "properties.csv")
 ASSETS_FILE = os.path.join(DATA_DIR, "assets.csv")
@@ -294,15 +293,3 @@ with st.expander("ℹ️ Key Stakeholders & Functions"):
 - **Executives/Clients** → View transparent coverage, assets, and incidents for decision-making & trust.
     """)
 # -----------------------------
-# --- IGNORE BELOW: THEME HANDLING (moved to app.py) ---
-# -----------------------------
-#def apply_theme():
-#    if st.session_state["theme"] == "Dark":                                
-#        st.markdown(
-#            """                                        
-#            <style>
-#            .main {            
-
-
-
-
