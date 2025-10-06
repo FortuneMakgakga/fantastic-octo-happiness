@@ -9,7 +9,7 @@ import base64
 # ---------- PAGE CONFIG ----------
 st.set_page_config(
     page_title="Ndaka Security Command Dashboard",
-    page_icon="🚔",
+    page_icon="",
     layout="wide",
 )
 
