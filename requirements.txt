@@ -9,7 +9,6 @@ Pillow
 reportlab
 openpyxl
 rapidfuzz
-streamlit-page-link
 scikit-learn
 joblib
 plotly
