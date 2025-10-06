@@ -76,8 +76,8 @@ st.markdown("### 🧭 Quick Navigation")
 col1, col2, col3, col4 = st.columns(4)
 col1.page_link("pages/2_Map.py", label="🗺️ Map")
 col2.page_link("pages/3_KPI.py", label="📈 KPI Dashboard")
-col3.page_link("pages/5_Live_Feed.py", label="🔴 Live Feed")
-col4.page_link("pages/6_Vehicle_Intelligence.py", label="🚘 Vehicle Intelligence")
+col3.page_link("pages/4_Live_Feed.py", label="🔴 Live Feed")
+col4.page_link("pages/5_Vehicle_Intelligence.py", label="🚘 Vehicle Intelligence")
 
 st.markdown("---")
 
