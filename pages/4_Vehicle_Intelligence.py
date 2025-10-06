@@ -128,7 +128,13 @@ _MAKE_MAP = {
     "audi":"Audi","nissan":"Nissan","chevrolet":"Chevrolet","isuzu":"Isuzu",
     "mazda":"Mazda","suzuki":"Suzuki","renault":"Renault","peugeot":"Peugeot",
     "volvo":"Volvo","land rover":"Land Rover","range rover":"Land Rover",
+    "mercedesbenz": "Mercedes-Benz",
+"mercedes_benz": "Mercedes-Benz",
+"benz": "Mercedes-Benz",
+"merc": "Mercedes-Benz",
+
 }
+
 _TYPE_TOKENS = {
     "sedan":"Sedan","saloon":"Sedan","notchback":"Notchback","hatchback":"Hatchback",
     "wagon":"Station Wagon","estate":"Station Wagon","minivan":"Minivan","mpv":"Minivan",
