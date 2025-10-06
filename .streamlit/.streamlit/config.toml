@@ -1,0 +1,21 @@
+[theme]
+primaryColor = "#1E73BE"                # Ndaka Blue
+backgroundColor = "#0E1117"             # Deep matte black
+secondaryBackgroundColor = "#1B1F24"    # Slightly lighter card background
+textColor = "#F5F5F5"                   # White/Light gray
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[client]
+toolbarMode = "minimal"
+
+[ui]
+hideTopBar = false
+
+[global]
+title = "Ndaka Security Command Dashboard"
+favicon = "assets/ndaka_logo.png"
